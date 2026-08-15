@@ -1,0 +1,44 @@
+# Normalize all text files to LF in the repo, checkout using OS default
+* text=auto eol=lf
+
+# Core Obsidian content — force LF explicitly
+*.md      text eol=lf
+*.base    text eol=lf
+*.canvas  text eol=lf
+
+# Config, scripts, and other text formats
+*.json  text eol=lf
+*.yaml  text eol=lf
+*.yml   text eol=lf
+*.html  text eol=lf
+*.css   text eol=lf
+*.js    text eol=lf
+*.ts    text eol=lf
+*.svg   text eol=lf
+
+# Images — binary, no diffing/merging, no line-ending conversion
+*.avif  binary
+*.bmp   binary
+*.gif   binary
+*.jpeg  binary
+*.jpg   binary
+*.png   binary
+*.webp  binary
+
+# Audio — binary
+*.flac  binary
+*.m4a   binary
+*.mp3   binary
+*.ogg   binary
+*.wav   binary
+*.3gp   binary
+
+# Video — binary
+*.mkv   binary
+*.mov   binary
+*.mp4   binary
+*.ogv   binary
+*.webm  binary
+
+# PDF — binary
+*.pdf   binary
