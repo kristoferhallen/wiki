@@ -1,0 +1,5 @@
+---
+aliases:
+  - KVA
+  - Kungliga Vetenskapsakademien
+---
