@@ -1,0 +1,18 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "kategorier": "multitext",
+    "start": "date",
+    "end": "date",
+    "föreningar": "multitext",
+    "distrikt": "multitext",
+    "verksamheter": "multitext",
+    "orter": "multitext",
+    "platser": "multitext",
+    "källor": "multitext",
+    "bilagor": "multitext",
+    "länkar": "multitext"
+  }
+}

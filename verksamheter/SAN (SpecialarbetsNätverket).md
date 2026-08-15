@@ -1,0 +1,6 @@
+---
+aliases:
+  - SAN
+kategorier:
+  - verksamheter
+---

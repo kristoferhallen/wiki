@@ -1,0 +1,27 @@
+# MAC OS
+.DS_Store
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/*
+
+# Linux
+.directory
+.Trash-*
+
+# IntelliJ
+.idea/*
+
+# Obsidian
+.obsidian/*
+# Templates are shared
+!.obsidian/templates.json
+# Make all yaml property types consistent
+!.obsidian/types.json
+.trash/
+*.tmp
