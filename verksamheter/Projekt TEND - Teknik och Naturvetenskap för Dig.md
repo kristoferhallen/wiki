@@ -1,0 +1,6 @@
+---
+aliases:
+  - TEND
+kategorier:
+  - verksamheter
+---
