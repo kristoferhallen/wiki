@@ -2,7 +2,7 @@
 aliases:
   - UFÖS
   - Unga Forskare Östergötland Småland
-web archive:
+web_archive:
   - http://www.lysator.liu.se/fuf/d/ufos/
 kategorier:
   - distrikt

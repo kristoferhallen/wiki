@@ -2,7 +2,7 @@
 aliases:
   - UFB
   - Unga Forskare Bergslagen
-web archive:
+web_archive:
   - http://ufb.fuf.org
 kategorier:
   - distrikt

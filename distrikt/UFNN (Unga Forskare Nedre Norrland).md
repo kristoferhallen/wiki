@@ -2,7 +2,7 @@
 aliases:
   - UFNN
   - Unga Forskare Nedre Norrland
-web archive:
+web_archive:
   - http://www.solace.mh.se/~fury/uf/ufnn.html
   - http://www.ufnn.fuf.org/
 kategorier:
