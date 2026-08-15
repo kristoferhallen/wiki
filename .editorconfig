@@ -1,0 +1,16 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+indent_style = space
+indent_size = 2
+
+# Obsidian defaults
+[*.{md,canvas,base}]
+indent_style = tab
+indent_size = 4
+# Markdown relies on trailing 2 spaces to force a line break — don't strip it
+trim_trailing_whitespace = false
