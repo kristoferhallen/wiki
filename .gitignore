@@ -19,5 +19,9 @@ Desktop.ini
 
 # Obsidian
 .obsidian/*
+# Templates are shared
+!.obsidian/templates.json
+# Make all yaml property types consistent
+!.obsidian/types.json
 .trash/
 *.tmp
