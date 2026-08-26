@@ -15,5 +15,6 @@ något om vad förbundet gjorde och vilka som var med hör hemma här.
 Är du osäker på formen, skicka in ändå. Det är lättare att rätta en
 felformaterad not än att återskapa en uppgift ingen skrivit ner.
 
-Se [CONTRIBUTING.md](CONTRIBUTING.md) för konventioner kring länkar,
-källor, PR-storlek och personuppgifter.
+Se [CONTRIBUTING.md](CONTRIBUTING.md) för mer information kring hur du kan bidra.
+Se [STYLEGUIDE.md](STYLEGUIDE.md) för konventioner kring hur filer organiseras och struktureras.
+
