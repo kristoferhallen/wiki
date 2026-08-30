@@ -7,22 +7,24 @@ web_archive:
 kategorier:
   - distrikt
 källor:
-  - "[[UFÖS verksamhetsberättelser 1994-1997]]"
+  - "[[UFÖS verksamhetsberättelse 1994]]"
+  - "[[UFÖS verksamhetsberättelse 1995]]"
+  - "[[UFÖS verksamhetsberättelse 1996]]"
+  - "[[UFÖS verksamhetsberättelse 1997]]"
 ---
 
 ## Hemsida
 Först genom Lysator men sen på FUF 1999
 
 ## Historik 1994–1997
-* 1 februari 1994: 911 medlemmar i 30 föreningar. ([UFÖS verksamhetsberättelser 1994-1997](../källor/UFÖS%20verksamhetsberättelser%201994-1997.md))
-* 14–16 januari 1994: Gränsträff i Älmhult tillsammans med Skånedistriktet, cirka 30 deltagare på kurser i digitalteknik, geologi och itererade funktioner. ([UFÖS verksamhetsberättelser 1994-1997](../källor/UFÖS%20verksamhetsberättelser%201994-1997.md))
-* 2–4 december 1994: TetraQurs på Södra Vätterbygdens folkhögskola i Jönköping med 104 deltagare — distriktets största arrangemang det året vid sidan av riksstämman. ([UFÖS verksamhetsberättelser 1994-1997](../källor/UFÖS%20verksamhetsberättelser%201994-1997.md))
-* 1994: Ordförande Magnus Ossiansson. ([UFÖS verksamhetsberättelser 1994-1997](../källor/UFÖS%20verksamhetsberättelser%201994-1997.md))
-* 1995: 34 föreningar, minst 1 458 medlemmar rapporterade från en del av dem. ([UFÖS verksamhetsberättelser 1994-1997](../källor/UFÖS%20verksamhetsberättelser%201994-1997.md))
-* 1995–1997: Ordförande Jesper Friis, som senare förde ordförandeklubban vid Riksstämman 1998. ([UFÖS verksamhetsberättelser 1994-1997](../källor/UFÖS%20verksamhetsberättelser%201994-1997.md))
-* 3–5 maj 1996: Distriktets första dokumenterade Kolmårdenkurs, i samverkan med Kolmårdens Djur- och Naturpark. 23 deltagare bodde inne i djurparken under ledning av Mats och Birgitta Amundin. ([UFÖS verksamhetsberättelser 1994-1997](../källor/UFÖS%20verksamhetsberättelser%201994-1997.md))
-* 1996: 23 aktiva föreningar, ned från 34 året innan. ([UFÖS verksamhetsberättelser 1994-1997](../källor/UFÖS%20verksamhetsberättelser%201994-1997.md))
-* 6–8 december 1996: TetraQurs på Viebäcks folkhögskola utanför Nässjö, med en tillbakablick över UFÖS historia av tidigare ordförande Michael Källman. Underlaget för tillbakablicken är inte känt bevarat. ([UFÖS verksamhetsberättelser 1994-1997](../källor/UFÖS%20verksamhetsberättelser%201994-1997.md))
-* 1997: Berättelsen konstaterar att många planerade kurser ställdes in på grund av för lågt deltagarantal — samma nedgång som förbundet centralt beskrev som en kris först 2002. ([UFÖS verksamhetsberättelser 1994-1997](../källor/UFÖS%20verksamhetsberättelser%201994-1997.md))
-* 17–19 oktober 1997: Kolmårdenkursen upprepas, återigen med Mats och Birgitta Amundin som värdar. ([UFÖS verksamhetsberättelser 1994-1997](../källor/UFÖS%20verksamhetsberättelser%201994-1997.md))
-* 1994: Hans Sundkvist, kursledare vid riksstämman i Växjö, anges i källan som en av UFÖS grundare. Distriktets grundningsår är inte känt. ([UFÖS verksamhetsberättelser 1994-1997](../källor/UFÖS%20verksamhetsberättelser%201994-1997.md))
+Distriktets verksamhetsberättelser finns bevarade för fyra år på [Lysator](../källor/Lysator%20(Unga%20Forskares%20webbplats%201995-1998).md) och är den enda löpande verksamhetsdokumentationen i materialet före år 2000. Detaljerna per år finns i källnoterna:
+
+* [UFÖS verksamhetsberättelse 1994](../källor/UFÖS%20verksamhetsberättelse%201994.md) — 911 medlemmar i 30 föreningar (1 februari), tolv arrangemang, [Riksstämman](../verksamheter/RS%20(Riksstämman).md) i Växjö med 130 deltagare, [[TQ (TetraQurs)|TetraQurs]] med 104 deltagare. Ordförande **Magnus Ossiansson**.
+* [UFÖS verksamhetsberättelse 1995](../källor/UFÖS%20verksamhetsberättelse%201995.md) — 34 föreningar, minst 1 458 medlemmar rapporterade från 14 av dem, nio arrangemang. En Intern Krets (IQ) bildas för det löpande arbetet. Ordförande **Jesper Friis** (1995–1997).
+* [UFÖS verksamhetsberättelse 1996](../källor/UFÖS%20verksamhetsberättelse%201996.md) — 23 aktiva föreningar (ned från 34), cirka 1 400 medlemmar. Distriktets första dokumenterade Kolmårdenkurs (3–5 maj). Den planerade distriktsstämman ställs in på grund av för lågt deltagande.
+* [UFÖS verksamhetsberättelse 1997](../källor/UFÖS%20verksamhetsberättelse%201997.md) — 25 aktiva föreningar, sex arrangemang. Berättelsen anger inställda kurser på grund av lågt deltagarantal som årets kännetecken.
+
+### Sammanhang
+Förändring från 1994 till 1997: från tolv arrangemang och en riksstämma med 130 deltagare till sex arrangemang och uttryckligt inställda kurser. Nedgången i föreningsantal (34 → 23 mellan 1995 och 1996) och den inställda distriktsstämman 1996 är dokumenterade flera år innan förbundet centralt diskuterade medlemstappet som en kris 2002.
+
+**Hans Sundkvist**, kursledare vid riksstämman 1994, anges i 1994 års berättelse som en av UFÖS grundare. Distriktets grundningsår framgår inte av berättelserna. **Michael Källman**, tidigare ordförande, höll en tillbakablick över distriktets historia vid TetraQursen 1996 — den enda kända sammanställningen från perioden; inget underlag är känt bevarat.
