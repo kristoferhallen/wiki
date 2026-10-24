@@ -2,7 +2,7 @@
 
 ## EU Contest for Young Scientists (EU Contest) i Sverige 2006
 
-Kontaktperson: [[Anders Sahlman]]
+Kontaktperson: [Anders Sahlman](../../personer/Anders%20Sahlman.md)
 Förbundet Unga Forskare har av EU-kommissionen blivit erbjudna värdskapet för [[EU Contest]] 2006 i samarbete med [[KVA]] och [[Vetenskapsrådet]]. Den nationella delen av budgeten är täckt med hjälp av bidrag frän [[Astra Zeneca]], [[KK-stiftelsen]], [[Stiftelsen for strategisk forskning]] samt [[Vetenskapsrådet]]. Målen under 2003 blir att underhälla kontakterna med sponsorer och samarbetspartner samt att fastställa formen för organisationen bakom arrangemanget tillsammans med Vetenskapsrådet och Kungliga Vetenskapsakademien. Årets EU Contest i [[Budapest]] ska besökas för att observera arrangemanget och för att skapa kontakter med övriga National Organizers samt personer pa EU-kommissionen.
 
 ## Internationell verksamhet
@@ -14,7 +14,7 @@ För att bättre nå ut med information om förbundet till organisationer i andr
 ## NORNA
 
 Ref: [NORNA](../../verksamheter/NORNA%20(Nordiska%20naturvetenskapliga%20ungdomsveckan).md)
-Kontaktperson: [[Margareta Palmgren]], [[Martin Olsson]]
+Kontaktperson: [[Margareta Palmgren]], [Martin Olsson](../../personer/Martin%20Olsson.md)
 Nordiska naturvetenskapliga ungdomsveckan skall vara en mötesplats för ungdomar där intresset för och kunskapen om naturvetenskap och teknik främjas. Årets NORNA kommer att hällas under vecka 30, måndag till lördag, och kommer att erbjuda plats för ca 50 deltagare.
 Målgruppen är gymnasieungdomar i Norden och dessa skall beredas möjlighet att under en vecka delta i en kurs innehållande både praktiska och teoretiska delmoment inom naturvetenskapen. Under veckan kommer också deltagarna att lyssna pa tvärvetenskapliga föreläsningar samt åka pa studiebesök för att fa en större bredd på sin undervisning. Sociala aktiviteter kommer också att ingå, för att på så sätt göra vistelsen ännu mer trivsam för deltagarna.
 
@@ -22,13 +22,13 @@ Dessa mål skall uppnås genom ett fortsatt samarbete med de nordiska systerorga
 
 ## Näringslivsgruppen
 
-Kontaktperson: [[Erik Frick]]
+Kontaktperson: [Erik Frick](../../personer/Erik%20Frick.md)
 Näringslivsgruppen kommer under kommande är att fortsätta att hälla kontakten med förbundets företagspartner. Detta sker framförallt genom nyhetsbrevet Dialog, men även genom personliga möten med våra kontaktpersoner pa företagen.
 Vi kommer under året att fortsätta arbetet med att förlänga avtalen med de nuvarande partnerföretagen, samt försöka knyta ytterligare någon ny företagspartner till förbundet. Vi kommer också att arbeta för att fä fler duktiga föreläsare frän våra företagspartner att besöka vära arrangemang och medverka i exempelvis kurser. Tillsammans med AstraZeneca och Vattenfall verkar vi för att genomföra forskarskolor även i ar.
 
 ## Riksstämman (RS)
 
-Kontaktperson: [[Martin Lennartsson]]
+Kontaktperson: [Martin Lennartsson](../../personer/Martin%20Lennartsson.md)
 Riksstämman 2003 arrangeras av [UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md). Den gảr av stapeln pả Viebäcks Folkhögskola mellan Nässjö och Jönköping 28-30 mars. Förutom de sedvanliga årsmötesförhandlingarna ordnas även föreläsningar och sociala aktiviteter.
 
 ## Scientium
@@ -36,12 +36,12 @@ Riksstämman 2003 arrangeras av [UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%
 Ref: [Scientium](../../verksamheter/Scientium.md)
 Kontaktpersoner: [[Pia Ullström]] och [[Sabin Salahuddin]]
 Scientium planerar under 2003 att komma ut med sex nummer, varav ett dubbelnummer.
-Scientium har i ar en redaktion pả 10 personer. Sabin Salahuddin och Pia Ullström fungerar som chefredaktörer och ansvarig utgivare är [[Lorena Grubisic]]. Ett av målen under âret är att locka yngre medlemmar till tidningen, så att tidningen hela tiden har en fungerande redaktion.
+Scientium har i ar en redaktion pả 10 personer. Sabin Salahuddin och Pia Ullström fungerar som chefredaktörer och ansvarig utgivare är [Lorena Grubisic](../../personer/Lorena%20Grubisic.md). Ett av målen under âret är att locka yngre medlemmar till tidningen, så att tidningen hela tiden har en fungerande redaktion.
 
 ## Skolturnén
 
 Ref: [Skolturnén](../../verksamheter/Skolturnén.md)
-Kontaktperson: [[Daniel Nilebäck]]
+Kontaktperson: [Daniel Nilebäck](../../personer/Daniel%20Nilebäck.md)
 Skolturnén är ett led i Förbundet Unga Forskares ambition att stimulera ungdomars intresse för naturvetenskap och teknik. Vi vill med Skolturnén öka ungdomars utforskarglädje och visa upp flera sidor av dessa spännande ämnen. Skolturnén skall besöka framför allt gymnasieskolor i ett av förbundets distrikt, och där framföra en spektakulär kemishow som bland annat visar flytande kväve, spikmatta och enklare kemiska experiment. Skolturnén kommer att bestå av tre projektanställda ungdomar under fyra månader, vilka själva kommer att planera och genomföra turnén med uppbackning från en turnéchef. Etter avslutad turné bör distriktet i män av kraft inspirera de intresserade eleverna till att starta nya föreningar.
 Distriktet bör också anordna en längre, gemensam aktivitet, tillsammans med andra nya och gamla Unga Forskare.
 
@@ -67,7 +67,7 @@ Gällande det sistnämnda har t.ex. ett samarbete med [[Junior Water Price]] i S
 
 ## Utbildning
 
-Kontaktperson: [[Anna Alfredsson]]
+Kontaktperson: [Anna Alfredsson](../../personer/Anna%20Alfredsson.md)
 Utbildningsgruppens uppgift är att erbjuda adekvat utbildning för aktiva pả förbunds- och distriktsnivå. Under våren 2003 kommer en gemensam utbildningshelg anordnas för de aktiva i distrikt och verksamhetsgrupper. Anledningen till hopslagningen av utbildningshelgerna är att dels utöka utbytet mellan distrikt och verksamhetsgrupper samt att effektivisera utbildningsgruppens arbete. Utbildningens innehäll ska, sả längt det är möjligt, följa de aktivas egna önskemäl. Utbildningen av förbundsstyrelsen ska utökas för att än mer optimera och utveckla, sà väl som engagera, styrelsen i sitt arbete.
 
 ## UUF
@@ -86,29 +86,29 @@ Förbundet är organiserat i åtta [[Distrikt]]. Distrikten är fristående och 
 
 ### Föreningar
 
-Kontaktperson: [[Hanna Modin]]
+Kontaktperson: [Hanna Modin](../../personer/Hanna%20Modin.md)
 
 Förbundsstyrelsen vill pả ett enkelt sätt nå ut med information till alla medlemmar direkt.
 Detta skall uppnås genom att samla in alla medlemmars adressuppgifter och föra in i ett register. Ett annat mål är att förenkla förbundets hantering av och förbättra servicen till föreningar anslutna till Förbundet Unga Forskare.
 
 ## Distrikt
 
-Kontaktperson: [[Linus Gustafsson]]
+Kontaktperson: [Linus Gustafsson](../../personer/Linus%20Gustafsson.md)
 Förbundsstyrelsen kommer att utse en distriktsansvarig som ska hålla en kontinuerlig kontakt med distrikten och bistå dem när de behöver hjälp. Distriktsansvarig skall även göra ett försök att starta upp förbundets tre inaktiva distrikt.
 
 ### Förbundsstyrelsen
 
-Kontaktperson: [[Karolina Åseby]]
+Kontaktperson: [Karolina Åseby](../../personer/Karolina%20Åseby.md)
 Förbundsstyrelsen kommer att förvalta och utveckla Förbundet Unga Forskare enligt de riktlinjer som stämman ger.
 Förbundsstyrelsen skall pa nästa Riksstämma redovisa en jämförelse mellan föregående års verksamhetsplan och det gångna årets verksamhetsberättelse.
 Protokoll frän förbundsstyrelsemöten skall skickas med e-post till distriktslistan samt läggas ut på den interna hemsidan.
 
 ### Förbundskansliet
 
-Kontaktperson: [[Karolina Åseby]]
+Kontaktperson: [Karolina Åseby](../../personer/Karolina%20Åseby.md)
 Under året kommer mycket kraft läggas vid att få en kontinuitet i det administrativa arbetet pả kansliet. Kansliet kommer också i ökad utsträckning bli tillgängligt för distrikt och verksamhetsgrupper.
 
 ### FUF-shop
 
-Kontaktperson: [[Hanna Modin]]
+Kontaktperson: [Hanna Modin](../../personer/Hanna%20Modin.md)
 En FUF-shop ska inrättas där medlemmar kan köpa olika FUF-relaterade produkter, t.ex. tröjor, pennor etc. med FUFs logotyp pả.

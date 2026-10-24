@@ -32,7 +32,7 @@ kategorier:
 
 ## §1 Riksstämmans öppnande
 
-> Förbundsordförande [[Anders Lundberg]] förklarade mötet öppnat.
+> Förbundsordförande [Anders Lundberg](../../personer/Anders%20Lundberg.md) förklarade mötet öppnat.
 
 ## §2 Mötesformalia
 
@@ -41,9 +41,9 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att välja [[Hanna Modin]] till mötesordförande
+> att välja [Hanna Modin](../../personer/Hanna%20Modin.md) till mötesordförande
 >
-> att välja [[Louise Wallin]] till mötessekreterare
+> att välja [Louise Wallin](../../personer/Louise%20Wallin.md) till mötessekreterare
 
 ### §2b Val av två protokolljusterare tillika rösträknare
 
@@ -87,7 +87,7 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att utse [[Daniel Langkilde]], [[David Andersson]], [[Karl Larsson]] och [[Johan Billman]] till valutskott
+> att utse [Daniel Langkilde](../../personer/Daniel%20Langkilde.md), [[David Andersson]], [Karl Larsson](../../personer/Karl%20Larsson.md) och [[Johan Billman]] till valutskott
 
 ### §3c Beslut kring påverkanstorget
 
@@ -103,13 +103,13 @@ kategorier:
 - Revisionsberättelse
 - Fråga om ansvarsfrihet för avgående förbundsstyrelse
 
-*Året som kommer:* [[Hanna Modin]]
+*Året som kommer:* [Hanna Modin](../../personer/Hanna%20Modin.md)
 
 - Verksamhetsplansproposition
 - Budgetproposition
 - Valberedningens förslag
 
-*Motioner del I:* [[Helene Eriksson]]
+*Motioner del I:* [Helene Eriksson](../../personer/Helene%20Eriksson.md)
 
 - Distriktsutbildning
 - Nytt hemsidesystem
@@ -117,7 +117,7 @@ kategorier:
 - Nytt medlemsregister
 - Jämställdhet och Mångfald inom Förbundet Unga Forskare
 
-*Motioner del II:* [[Hanna Palmqvist]]
+*Motioner del II:* [Hanna Palmqvist](../../personer/Hanna%20Palmqvist.md)
 
 - Alfred Nobel
 - Förbundets syfte
@@ -140,7 +140,7 @@ kategorier:
 >
 > att fastställa yrkandestoppet efter påverkanstorget till kl 16.40 2010-03-20
 >
-> att utse [[Alexander Sehlström]], [[Hanna Modin]] och [[Louise Wallin]] till redaktionsutskott
+> att utse [Alexander Sehlström](../../personer/Alexander%20Sehlström.md), [Hanna Modin](../../personer/Hanna%20Modin.md) och [Louise Wallin](../../personer/Louise%20Wallin.md) till redaktionsutskott
 >
 > att låta alla punkter som ska behandlas på påverkanstorget föredras av ansvarig under två minuter, med undantag av Verksamhetsberättelsen och Årsbokslutet som tilldelas fem minuter vardera
 
@@ -201,7 +201,7 @@ kategorier:
 >
 > att avregistrera föreningar enligt Bilaga Föreningar för avregistrering
 
-> [[Daniel Langkilde]] föredrog valutskottets förslag. De rekommenderade [[Tove Verner Carlsson]] (sammankallande), [[Aleksander Lundqvist]], [[Therese de Haan]] och [[Sebastian Bundajev]].
+> [Daniel Langkilde](../../personer/Daniel%20Langkilde.md) föredrog valutskottets förslag. De rekommenderade [[Tove Verner Carlsson]] (sammankallande), [Aleksander Lundqvist](../../personer/Aleksander%20Lundqvist.md), [[Therese de Haan]] och [[Sebastian Bundajev]].
 
 ## §7 Fastställande av medlemsavgift för år 2010
 
@@ -271,7 +271,7 @@ kategorier:
 
 ### §9a Distriktsutbildning
 
-> [[Harald Carlstrand]] drog tillbaka sin motionerade att-sats.
+> [Harald Carlstrand](../../personer/Harald%20Carlstrand.md) drog tillbaka sin motionerade att-sats.
 
 >[!beslut]
 > RS beslutar
@@ -299,7 +299,7 @@ kategorier:
 >
 > att efter votering avslå förslaget om att medlemsregistret ska släppas som öppen källkod, så att intresserade, medlemmar och andra, kan utöka och uppdatera det
 >
-> att lyfta [[Harald Carlstrand]]s förslag att Förbundsstyrelsen ansvarar för att tillhandahålla ett användarvänligt medlemsregister för medlemmar, distrikt och personal
+> att lyfta [Harald Carlstrand](../../personer/Harald%20Carlstrand.md)s förslag att Förbundsstyrelsen ansvarar för att tillhandahålla ett användarvänligt medlemsregister för medlemmar, distrikt och personal
 >
 > att Förbundsstyrelsen ansvarar för att tillhandahålla ett användarvänligt medlemsregister för medlemmar, distrikt och personal
 
@@ -312,7 +312,7 @@ kategorier:
 
 ### §9f Förbundets syfte
 
-> [[David Borg]] drog tillbaka sitt förslag om att ändra "samt deras roll i samhället" till "deras, dvs. naturvetenskapens och teknikens, roll i samhället".
+> [David Borg](../../personer/David%20Borg.md) drog tillbaka sitt förslag om att ändra "samt deras roll i samhället" till "deras, dvs. naturvetenskapens och teknikens, roll i samhället".
 
 >[!beslut]
 > RS beslutar
@@ -341,7 +341,7 @@ kategorier:
 >
 > att riva upp yrkandestoppet
 >
-> att anta förslag från [[Tobias Nilsson]] om att lägga till en ny punkt i stadgarna enligt följande: "§ 3.4.1 Samtliga till förbundet tillhörande föreningar som har säte i ett av förbundets distrikt blir automatiskt medlemmar i distriktet."
+> att anta förslag från [Tobias Nilsson](../../personer/Tobias%20Nilsson.md) om att lägga till en ny punkt i stadgarna enligt följande: "§ 3.4.1 Samtliga till förbundet tillhörande föreningar som har säte i ett av förbundets distrikt blir automatiskt medlemmar i distriktet."
 >
 > att återuppta yrkandestoppet
 
@@ -359,7 +359,7 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att enhälligt välja [[Guncha Welsapar]] till förbundsordförande
+> att enhälligt välja [Guncha Welsapar](../../personer/Guncha%20Welsapar.md) till förbundsordförande
 
 ### §10b Fastställande av styrelsens storlek
 
@@ -375,23 +375,23 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att välja [[Rikard Ahrgren]], [[David Ebbevi]], [[Sanna Holm]], [[Sara Magnusson]], [[Robert Piehl-Fridqvist]], [[Andreas Svensson]], [[Yi-Hua Zhang]] och [[Johannes Zeltner Wolff]] till förbundsstyrelseledamöter
+> att välja [Rikard Ahrgren](../../personer/Rikard%20Ahgren.md), [[David Ebbevi]], [[Sanna Holm]], [Sara Magnusson](../../personer/Sara%20Magnusson.md), [[Robert Piehl-Fridqvist]], [Andreas Svensson](../../personer/Andreas%20Svensson.md), [[Yi-Hua Zhang]] och [Johannes Zeltner Wolff](../../personer/Johannes%20Zeltner%20Wolff.md) till förbundsstyrelseledamöter
 
 ### §10d Val av två revisorer samt två revisorssuppleanter
 
 >[!beslut]
 > RS beslutar
 >
-> att välja [[Sune Johnson]] (auktoriserad) samt [[Alexander Sehlström]] (ideell) till ordinarie revisorer
+> att välja [Sune Johnson](../../personer/Sune%20Johnson.md) (auktoriserad) samt [Alexander Sehlström](../../personer/Alexander%20Sehlström.md) (ideell) till ordinarie revisorer
 >
-> att välja [[Johan Rönnkvist]] (auktoriserad) samt [[Johan Andréasson]] (ideell) till revisorsuppleanter
+> att välja [[Johan Rönnkvist]] (auktoriserad) samt [Johan Andréasson](../../personer/Johan%20Andréasson.md) (ideell) till revisorsuppleanter
 
 ### §10e Val av valberedning
 
 >[!beslut]
 > RS beslutar
 >
-> att välja [[Tove Verner Carlsson]], [[Aleksander Lundqvist]], [[Therese de Haan]] och [[Sebastian Bundajev]] till valberedning enligt valutskottets förslag
+> att välja [[Tove Verner Carlsson]], [Aleksander Lundqvist](../../personer/Aleksander%20Lundqvist.md), [[Therese de Haan]] och [[Sebastian Bundajev]] till valberedning enligt valutskottets förslag
 
 ## §11 Övriga frågor
 
@@ -416,7 +416,7 @@ kategorier:
 >[!beslut]
 > RS beslutar
 >
-> att enligt [[Tobias Nilsson]]s förslag lägga följande kommentarer till protokollet:
+> att enligt [Tobias Nilsson](../../personer/Tobias%20Nilsson.md)s förslag lägga följande kommentarer till protokollet:
 >
 > Riksstämman är av åsikten att, trots att Förbundsstyrelsen fullgjort det uppdrag de tilldelats, var utredningen bristfällig då den saknade tydliga utgångspunkter och frågeställningar.
 >
@@ -424,7 +424,7 @@ kategorier:
 
 ## §12 Stämmans avslutande
 
-> Nyvald förbundsordförande [[Guncha Welsapar]] avslutade Riksstämman 2010.
+> Nyvald förbundsordförande [Guncha Welsapar](../../personer/Guncha%20Welsapar.md) avslutade Riksstämman 2010.
 
 ## BILAGOR TILL PROTOKOLLET
 

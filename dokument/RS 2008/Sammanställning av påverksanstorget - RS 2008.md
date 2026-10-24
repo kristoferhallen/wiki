@@ -7,13 +7,13 @@
 >[!yrkande]
 > att lägga Resultat från TEND-turnén till handlingarna som substitut för det bortfallna stycket ur verksamhetsberättelsen.
 
-[[Andreas Svensson]], [[Tobias Johansson]], [[Sara Magnusson]], [[Karl Larsson]]
+[Andreas Svensson](../../personer/Andreas%20Svensson.md), [[Tobias Johansson]], [Sara Magnusson](../../personer/Sara%20Magnusson.md), [Karl Larsson](../../personer/Karl%20Larsson.md)
 
 **Kommentarer:**
 
 1. Verksamhetsberättelsen borde väl ändå under "Infogrupp" tydligare definiera vad det är [Scientium](../../verksamheter/Scientium.md) borde göras om till, och inte bara att det ska "göras om"?
 
-   [[Anders Espling]], [[Tobias Nilsson]], [[John Jensen]], [[Erika Wiberg]], [[Louise Wallin]], [[Helene Eriksson]], m.fl.
+   [[Anders Espling]], [Tobias Nilsson](../../personer/Tobias%20Nilsson.md), [[John Jensen]], [Erika Wiberg](../../personer/Erika%20Wiberg.md), [Louise Wallin](../../personer/Louise%20Wallin.md), [Helene Eriksson](../../personer/Helene%20Eriksson.md), m.fl.
 
 2. Ändra Verksamhetsberättelsen enligt följande:
 
@@ -22,7 +22,7 @@
    - den sista meningen under utbildning och kompetensutveckling så att innebörden blir tydligare;
    - informationen rörande infogruppen, för att ge en klarare bild av deras verksamhet.
 
-   [[Karl Larsson]]
+   [Karl Larsson](../../personer/Karl%20Larsson.md)
 
 #### §11b Resultaträkning och balansräkning för FUF 2007
 
@@ -59,7 +59,7 @@
 >
 > Att Riksstämman beviljar styrelsen för Stiftelsen Gundel Cornelia Babs stipendiefond ansvarsfrihet för verksamhetsåret 2007.
 
-[[Andreas Svensson]], [[Linnéa Nilebäck]], [[Karl Larsson]], [[Martin Norlin]], [[Tobias Nilsson]], [[Erika Wiberg]], [[Louise Wallin]], [[Jenny Nilsson]], [[Helene Eriksson]], [[Andreas Källberg]], [[Harald Carlstrand]], [[Samuel Z Wolff]], [[Sara Magnusson]], [[Emma Backlund]], [[Daniel Billman]], [[Jens Roat Kultima]]
+[Andreas Svensson](../../personer/Andreas%20Svensson.md), [Linnéa Nilebäck](../../personer/Linnéa%20Nilebäck.md), [Karl Larsson](../../personer/Karl%20Larsson.md), [Martin Norlin](../../personer/Martin%20Norlin.md), [Tobias Nilsson](../../personer/Tobias%20Nilsson.md), [Erika Wiberg](../../personer/Erika%20Wiberg.md), [Louise Wallin](../../personer/Louise%20Wallin.md), [[Jenny Nilsson]], [Helene Eriksson](../../personer/Helene%20Eriksson.md), [[Andreas Källberg]], [Harald Carlstrand](../../personer/Harald%20Carlstrand.md), [[Samuel Z Wolff]], [Sara Magnusson](../../personer/Sara%20Magnusson.md), [[Emma Backlund]], [[Daniel Billman]], [[Jens Roat Kultima]]
 
 ### §13 Avregistrering av föreningar samt rapport om föreningar antagna sedan RS 2007
 
@@ -80,8 +80,8 @@
 >
 > att FS ska verka för att komma på och deltaga på alla förenings- och distriktsarrangemang och att det ska prioriteras lika högt som verksamhetsgruppernas och övriga nationella arrangemang.
 
-**Bifall:** [[Johanna Rogvall]], [[Johannes Edström]], [[Sara Magnusson]], [[Erika Wiberg]], [[Samuel Z Wolff]]
-**Avslag:** [[Sarah Warsi]], [[Andreas Andersson]], [[Anna-Maria Wiberg]], [[Johan Andréasson]], [[Linnéa Bengtsson]], m.fl.
+**Bifall:** [Johanna Rogvall](../../personer/Johanna%20Rogvall.md), [[Johannes Edström]], [Sara Magnusson](../../personer/Sara%20Magnusson.md), [Erika Wiberg](../../personer/Erika%20Wiberg.md), [[Samuel Z Wolff]]
+**Avslag:** [Sarah Warsi](../../personer/Sarah%20Warsi.md), [[Andreas Andersson]], [[Anna-Maria Wiberg]], [Johan Andréasson](../../personer/Johan%20Andréasson.md), [[Linnéa Bengtsson]], m.fl.
 
 **Kommentarer:**
 
@@ -119,19 +119,19 @@ Nationella arrangemang:
 
 Det bör noteras att under utställningen pågår flera olika arrangemang såsom Lärardag och Skolprogram och att FS-ledamöterna deltog vid detta tillfälle på grund av anknytning till dessa verksamheter.
 
-[[Johan Andréasson]], [[Anna-Maria Wiberg]], [[Anders Lundberg]], [[Tobias Bladini]], [[Guncha Welsapar]], m.fl.
+[Johan Andréasson](../../personer/Johan%20Andréasson.md), [[Anna-Maria Wiberg]], [Anders Lundberg](../../personer/Anders%20Lundberg.md), [Tobias Bladini](../../personer/Tobias%20Bladini.md), [Guncha Welsapar](../../personer/Guncha%20Welsapar.md), m.fl.
 
 **Kommentar 2:**
 
 Bland dessa arrangemang finns endast tre öppna för "vanliga medlemmar". Det vi säger är inte att FS inte åker på arrangemang, utan att nu omprioriterar vilka ni åker på till förmån för mer medlemsinriktade =)
 
-[[Johannes Edström]], [[Johanna Rogvall]]
+[[Johannes Edström]], [Johanna Rogvall](../../personer/Johanna%20Rogvall.md)
 
 **Kommentar 3:**
 
 Jag håller med om att FS ska försöka synas på fler arrangemang (vilket de redan försöker) och att alla arrangemang ska prioriteras lika högt. Tycker dock inte att det behöver stå med i verksamhetsplanen.
 
-[[Sarah Warsi]], [[Karl Larsson]]
+[Sarah Warsi](../../personer/Sarah%20Warsi.md), [Karl Larsson](../../personer/Karl%20Larsson.md)
 
 #### Medlemskontakt
 
@@ -146,11 +146,11 @@ Jag håller med om att FS ska försöka synas på fler arrangemang (vilket de re
 >
 > Uppdrag: Att synas och få personlig kontakt med så många medlemmar som möjligt. FS ska under år 2008 deltaga på så många medlemsinriktade arrangemang som möjligt för att medlemmarna ska få större insyn i hela Förbundet Unga Forskare och vad man kan göra i Förbundet. Särskild vikt ska läggas vid arrangemang där deltagarplatserna är sökbara för alla förbundets medlemmar och där majoriteten av deltagarna är medlemmar.
 
-[[Johanna Rogvall]], [[Johannes Edström]]
+[Johanna Rogvall](../../personer/Johanna%20Rogvall.md), [[Johannes Edström]]
 
 **Kommentar:** Förbundsstyrelsen arbetar redan i dagsläget för att vara representerade på så många arrangemang och tillställningar som möjligt varför det är onödigt att ta upp detta i verksamhetsplanen. Dessutom är ett tillägg som detta alldeles för detaljstyrande för att tas upp i en verksamhetsplan som är målstyrande.
 
-[[Alexander Sehlström]], [[Anna-Maria Wiberg]], [[Johan Andréasson]], [[Anders Lundberg]]
+[Alexander Sehlström](../../personer/Alexander%20Sehlström.md), [[Anna-Maria Wiberg]], [Johan Andréasson](../../personer/Johan%20Andréasson.md), [Anders Lundberg](../../personer/Anders%20Lundberg.md)
 
 #### Nationellt medlemsarrangemang
 
@@ -165,13 +165,13 @@ Jag håller med om att FS ska försöka synas på fler arrangemang (vilket de re
 >
 > Uppdrag: Att förbundsstyrelsen ansvarar för att det anordnas ett nationellt arrangemang för alla förbundets medlemmar med syfte att inspirera i naturvetenskap.
 
-[[David Borg]], [[Andreas Källberg]], [[Johanna Rogvall]]
+[David Borg](../../personer/David%20Borg.md), [[Andreas Källberg]], [Johanna Rogvall](../../personer/Johanna%20Rogvall.md)
 
 **Kommentarer:**
 
 1. Vi måste lära oss av tidigare erfarenheter! Vi delar förslagsskrivarens önskemål om fler aktiviteter riktade till förbundets medlemmar och detta är något som vi och andra lyft såväl före som under RS. Dock ställer vi oss mycket frågande till om ett nationellt arrangemang för enbart medlemmar är det bästa organisationen kan ge sina medlemmar! Organisationen gjorde ett mycket seriöst och väl planerat försök till ovanstående hösten 2006: FUF-konventet. Tanken var att 200 av FUFs medlemmar skulle träffas i Göteborg och lära sig mer om förbundet, varandra och ha roligt tillsammans. Totalt anmälde sig knappt 60 personer. Förutom att vi var tvungna att ställa in många av de aktiviteter vi lagt ned omfattande tid på att planera blev konventet en ekonomisk börda för förbundet. Med detta vill jag visa att förbundet inte motsätter sig aktiviteter för medlemmar, men att det är viktigt att vi bara gör det medlemmarna vill ha. En nationell träff är, bevisligen, inte något som nödvändigtvis tilltalar en majoritet av våra medlemmar. En högst personlig anmärkning är att ett mer långsiktigt sätt att gynna organisationens medlemmar vore att upprätta en utvecklingsfond för Unga Forskare (se yrkande under "Budgetproposition 2008"). Utvecklingsfondens överskott skulle kunna användas till aktiviteter riktade till medlemmar, år efter år efter år. Om vi väljer att lägga pengar på ett nationellt arrangemang under 2008 har vi inte samma möjligheter att upprätta en fond redan i år. Vad väljer vi helst: ett arrangemang i år eller många bra arrangemang i framtiden!
 
-   [[Anders Lundberg]], [[Alexander Sehlström]], [[Johan Andréasson]], [[Maja Söderkvist]], [[Guncha Welsapar]], [[Anna-Maria Wiberg]]
+   [Anders Lundberg](../../personer/Anders%20Lundberg.md), [Alexander Sehlström](../../personer/Alexander%20Sehlström.md), [Johan Andréasson](../../personer/Johan%20Andréasson.md), [Maja Söderkvist](../../personer/Maja%20Söderkvist.md), [Guncha Welsapar](../../personer/Guncha%20Welsapar.md), [[Anna-Maria Wiberg]]
 
 2. Jag tror det är bra med fler riksarrangemang riktade till medlemmarna. Nästan nödvändigt, faktiskt. Men jag tror inte det är rimligt att ålägga FS detta, utan mer planering och förberedelse finns varken tid eller pengar. Kanske ett mer utarbetat förslag till RS09?
 
@@ -179,7 +179,7 @@ Jag håller med om att FS ska försöka synas på fler arrangemang (vilket de re
 
 3. Tanken är att detta ska vara en träff där föreningskontakter ska knytas (som det togs upp på open workspace), men inte bara för att träffas utan för att medlemmar ska lära sig mer om naturvetenskap. Det ska även vara en möjlighet för medlemmarna att få veta mer om Förbundet Unga Forskare och de aktiviteter som sker i förbundet. Jag tycker att det är viktigt att medlemmarna känner sig prioriterade och får möjlighet att träffas. Sponsring bör nog kunna sökas externt.
 
-   [[Johanna Rogvall]]
+   [Johanna Rogvall](../../personer/Johanna%20Rogvall.md)
 
 #### Tillägg i punkten Målgrupp ang. vad som erbjuds medlemmar
 
@@ -188,17 +188,17 @@ Jag håller med om att FS ska försöka synas på fler arrangemang (vilket de re
 >[!yrkande]
 > Vi yrkar därför att man infogar "Erbjuda målgruppen möjlighet till att mötas och umgås med likasinnade ungdomar." som en egen punkt mellan nuvarande underpunkt ett och två under Målgrupp i verksamhetsplanen.
 
-[[Mikaela Samuelsson]], [[David Borg]], [[Andreas Källberg]], [[Emma Backlund]], [[Karl Larsson]], [[Joakim Öfverholm]]
+[[Mikaela Samuelsson]], [David Borg](../../personer/David%20Borg.md), [[Andreas Källberg]], [[Emma Backlund]], [Karl Larsson](../../personer/Karl%20Larsson.md), [Joakim Öfverholm](../../personer/Joakim%20Öfverholm.md)
 
 **Kommentarer:**
 
 1. *Version 1, klockan 11:09.* (Samma förslag som ovan, instämt av ytterligare undertecknare:) Vi anser att det bör nämnas i verksamhetsplanen att förbundet även erbjuder en social mötesplats för sina medlemmar. Detta för att ha det officiellt nämnt med tanke på att det redan verkar räknas som att det är en del av vår verksamhetsplan, men då det inte nämns finns det en risk för att folk som läser verksamhetsplanen och inte känner till tillräckligt mycket om förbundet utesluter detta. Vi skulle dessutom vilja se att distrikt som väljer att genomföra rent sociala arrangemang skall få stöd av förbundet i verksamhetsplanen. Detta bör läggas till som en underpunkt under punkten Målgrupp, efter den underpunkt som nämner de medlemmar som man vill ska utveckla sitt intresse för naturvetenskap/teknik.
 
-   [[Tobias Nilsson]], [[John Jensen]], [[David Borg]] och [[Joakim Råman]], [[Rebecka Geijer Michaeli]], [[Mikaela Samuelsson]], [[Naweed Meer]], [[Andreas Källberg]], [[Anders Espling]], [[Helene Eriksson]], [[Joakim Öfverholm]]
+   [Tobias Nilsson](../../personer/Tobias%20Nilsson.md), [[John Jensen]], [David Borg](../../personer/David%20Borg.md) och [[Joakim Råman]], [[Rebecka Geijer Michaeli]], [[Mikaela Samuelsson]], [[Naweed Meer]], [[Andreas Källberg]], [[Anders Espling]], [Helene Eriksson](../../personer/Helene%20Eriksson.md), [Joakim Öfverholm](../../personer/Joakim%20Öfverholm.md)
 
 2. Ändring av målgruppens ålder. *Version 1, klockan 11:09.* Tidigare var målgruppens ålder 7-25. Vi anser att det är onödigt att utesluta åldrar under 14, då dessa är viktiga att påverka om man tänker ur ett långsiktigt perspektiv. Igår under pratstunden med förbundsstyrelsen så nämndes det att förbundet gärna skulle vilja arbeta långsiktigt och börja planera mer inför framtiden, och då är verksamhet riktad mot dem som är mellan ca 7-14 helt rätt. Dessa skulle kunna stå som en sekundär målgrupp.
 
-[[Tobias Nilsson]], [[John Jensen]], [[David Borg]] och [[Joakim Råman]], [[Rebecka Geijer Michaeli]], [[Mikaela Samuelsson]], [[Naweed Meer]], [[Andreas Källberg]], [[Anders Espling]], [[Pia Swartz]], [[Sara Magnusson]]
+[Tobias Nilsson](../../personer/Tobias%20Nilsson.md), [[John Jensen]], [David Borg](../../personer/David%20Borg.md) och [[Joakim Råman]], [[Rebecka Geijer Michaeli]], [[Mikaela Samuelsson]], [[Naweed Meer]], [[Andreas Källberg]], [[Anders Espling]], [[Pia Swartz]], [Sara Magnusson](../../personer/Sara%20Magnusson.md)
 
 #### Digitala kansliet
 
@@ -209,17 +209,17 @@ Jag håller med om att FS ska försöka synas på fler arrangemang (vilket de re
 >
 > Att under verksamhetsåret 2008 ska det digitala kansliet bevaras (åtminstone i någon liknande form) och finnas tillgängligt för förbundets medlemmar och föreningar.
 
-[[Martin Norlin]], [[Erika Wiberg]], [[Samuel Z Wolff]], [[Jenny Nilsson]], [[Karin Andersson]], [[Linnéa Nilebäck]], [[Samuel Tylstedt]], [[Lillian Fung]], [[Mikael Sunde]], [[Andreas Svensson]], [[Helene Eriksson]]
+[Martin Norlin](../../personer/Martin%20Norlin.md), [Erika Wiberg](../../personer/Erika%20Wiberg.md), [[Samuel Z Wolff]], [[Jenny Nilsson]], [[Karin Andersson]], [Linnéa Nilebäck](../../personer/Linnéa%20Nilebäck.md), [Samuel Tylstedt](../../personer/Samuel%20Tylstedt.md), [[Lillian Fung]], [[Mikael Sunde]], [Andreas Svensson](../../personer/Andreas%20Svensson.md), [Helene Eriksson](../../personer/Helene%20Eriksson.md)
 
 **Kommentar:** Vi uppskattar ert engagemang för det digitala kansliet och försäkrar er om att ni ej behöver vara oroliga. Det digitala kansliet kommer ligga kvar i sin nuvarande form till den dag vi har hittat ett likvärdigt, men smidigare, lösning än den som digitala kansliet utgör. Digitala kansliet kommer till dess att finnas via <http://digitalakansliet.fuf.org>.
 
-IT-gruppen genom [[Alexander Sehlström]] och [[Tobias Jonsson]].
+IT-gruppen genom [Alexander Sehlström](../../personer/Alexander%20Sehlström.md) och [Tobias Jonsson](../../personer/Tobias%20Jonsson.md).
 
 #### Webb
 
 > Vi yrkar att det ska finnas en sida på fuf.org som dedikerad åt de som är på högskola. Detta skulle vara lätt att utföra då man kan länka till andra redan existerande hemsidor som sommarforskarskolor båda utomlands och i Sverige. Kanske eventuellt att äldre medlemmar kan dela med sig av sina erfarenheter på ett sätt som är riktat mot andra i samma åldersgrupp. Varför är detta viktigt? Därför att många tappar intresset under gymnasietiden men behöver hjälp med att hitta tillbaka. Det är viktigt att man inte ska känna att man är sent ute när man har gått ut gymnasiet eller påbörjat en utbildning som inte passar. På detta sätt skulle man på ett effektivt sätt utöka målgruppen men samtidigt inte sänka den effektiviteten som FUF redan har.
 
-[[Linnéa Bengtsson]], [[Tobias Jonsson]], [[Tobias Nilsson]], [[Samuel Tylstedt]], [[Emma Backlund]], [[Sara Magnusson]], [[Jens Roat Kultima]], [[Johannes Z Wolff]], [[Naweed Meer]], [[Safi Naesae]]
+[[Linnéa Bengtsson]], [Tobias Jonsson](../../personer/Tobias%20Jonsson.md), [Tobias Nilsson](../../personer/Tobias%20Nilsson.md), [Samuel Tylstedt](../../personer/Samuel%20Tylstedt.md), [[Emma Backlund]], [Sara Magnusson](../../personer/Sara%20Magnusson.md), [[Jens Roat Kultima]], [Johannes Z Wolff](../../personer/Johannes%20Zeltner%20Wolff.md), [[Naweed Meer]], [[Safi Naesae]]
 
 **Uppdatering av yrkande 6:**
 
@@ -230,11 +230,11 @@ IT-gruppen genom [[Alexander Sehlström]] och [[Tobias Jonsson]].
 >
 > "Förbundet ska under året ordna en undersida till FUF:s webb för de som går på högskolan. Sidan skall innehålla exempelvis länkar till sommarforsarskolor, kurser, forskningsmöjligheter, etc. Det skall också finnas en möjlighet att dela med sig av sina erfarenheter."
 
-[[Linnéa Bengtsson]], [[Tobias Jonsson]], [[Rikard Ahgren]], [[Naweed Meer]], [[Johan Boström]], [[Anders Lundberg]]
+[[Linnéa Bengtsson]], [Tobias Jonsson](../../personer/Tobias%20Jonsson.md), [Rikard Ahgren](../../personer/Rikard%20Ahgren.md), [[Naweed Meer]], [[Johan Boström]], [Anders Lundberg](../../personer/Anders%20Lundberg.md)
 
 **Kommentar:** Idén är god och det skulle kunna bli ett mycket bra resultat om man lägger tid och engagemang bakom tjänsten. Om inte så kommer besökarna att tappa intresse. Vidare kan man fråga sig om det är FUF:s uppgift att bedriva en plattform som denna. Det finns idag redan ett stort antal liknande hemsidor och forum på Internet och för att konkurrera med dem behöver vi lägga mycket energi på detta. Sist ställer jag mig frågande till vem som skall göra denna tjänst. Är det föreslagsnämnaren själv som tänker sig göra detta? Möjlighet och utrymme på webben är inga problem att ordna i så fall.
 
-[[Alexander Sehlström]], [[Anna-Maria Wiberg]], [[Karl Larsson]]
+[Alexander Sehlström](../../personer/Alexander%20Sehlström.md), [[Anna-Maria Wiberg]], [Karl Larsson](../../personer/Karl%20Larsson.md)
 
 #### Färre cirkelresonemang
 
@@ -257,7 +257,7 @@ IT-gruppen genom [[Alexander Sehlström]] och [[Tobias Jonsson]].
 >
 > (dvs ändra "aktiva" till förbundsaktiva samt ta bort referensen till förklaring av aktiva längst ned på sidan)
 
-[[Linnéa Bengtsson]], [[Rikard Ahgren]], [[David Borg]], [[Erika Wiberg]], [[Martin Norlin]], [[Jenny Nilsson]], [[Johannes Z Wolff]], [[Karl Larsson]]
+[[Linnéa Bengtsson]], [Rikard Ahgren](../../personer/Rikard%20Ahgren.md), [David Borg](../../personer/David%20Borg.md), [Erika Wiberg](../../personer/Erika%20Wiberg.md), [Martin Norlin](../../personer/Martin%20Norlin.md), [[Jenny Nilsson]], [Johannes Z Wolff](../../personer/Johannes%20Zeltner%20Wolff.md), [Karl Larsson](../../personer/Karl%20Larsson.md)
 
 #### Tävlingar
 
@@ -266,7 +266,7 @@ IT-gruppen genom [[Alexander Sehlström]] och [[Tobias Jonsson]].
 >[!yrkande]
 > Att FS skall utreda möjligheterna till ett sådant samarbete under året samt att rapportera resultatet på nästkommande rikstämma.
 
-[[Samuel Tylstedt]], [[Mikaela Samuelsson]], [[Johanna Rogvall]], [[Safi Naesae]], [[Joakim Öfverholm]], [[David Borg]], [[Andreas Svensson]], [[Sara Magnusson]], [[Anna Berg]]
+[Samuel Tylstedt](../../personer/Samuel%20Tylstedt.md), [[Mikaela Samuelsson]], [Johanna Rogvall](../../personer/Johanna%20Rogvall.md), [[Safi Naesae]], [Joakim Öfverholm](../../personer/Joakim%20Öfverholm.md), [David Borg](../../personer/David%20Borg.md), [Andreas Svensson](../../personer/Andreas%20Svensson.md), [Sara Magnusson](../../personer/Sara%20Magnusson.md), [[Anna Berg]]
 
 **Kommentar 1:**
 
@@ -275,7 +275,7 @@ IT-gruppen genom [[Alexander Sehlström]] och [[Tobias Jonsson]].
 >[!yrkande]
 > Jag yrkar för att ändra Verksamhetsplanen för 2008 som ovanstående yrkande föreslår med förändringen att naturvetenskapliga byts ut mot vetenskapliga.
 
-[[Rebecka Geijer Michaeli]], [[David Borg]], Jo Ji, [[Andreas Tellberg]]
+[[Rebecka Geijer Michaeli]], [David Borg](../../personer/David%20Borg.md), Jo Ji, [[Andreas Tellberg]]
 
 **Kommentar 2:**
 
@@ -290,7 +290,7 @@ IT-gruppen genom [[Alexander Sehlström]] och [[Tobias Jonsson]].
 >
 > Uppdrag: FUF skall genom såväl interna som externa informationskanaler sprida kunskaper om tävlingsarrangemang samt uppmuntra sin medlemmar till engagerat deltagande. Förbundet skall även verka för ett mer direkt samarbete med de olika arrangemangens organisatörer.
 
-[[Samuel Tylstedt]], [[Karl Larsson]], [[Rebecka Geijer Michaeli]]
+[Samuel Tylstedt](../../personer/Samuel%20Tylstedt.md), [Karl Larsson](../../personer/Karl%20Larsson.md), [[Rebecka Geijer Michaeli]]
 
 ### §15 Fastställande av budget för 2008
 
@@ -310,7 +310,7 @@ IT-gruppen genom [[Alexander Sehlström]] och [[Tobias Jonsson]].
 > - Resor: 10 000 kr
 > - Övriga kostnader: 1 000 kr
 
-[[Harald Carlstrand]], [[Joel Salholm]], [[Antonia Papadopoulou]], [[Linnéa Nilebäck]], [[Tobias Bladini]], [[Karl Larsson]]
+[Harald Carlstrand](../../personer/Harald%20Carlstrand.md), [Joel Salholm](../../personer/Joel%20Salholm.md), [Antonia Papadopoulou](../../personer/Antonia%20Papadopoulou.md), [Linnéa Nilebäck](../../personer/Linnéa%20Nilebäck.md), [Tobias Bladini](../../personer/Tobias%20Bladini.md), [Karl Larsson](../../personer/Karl%20Larsson.md)
 
 #### Ett nytt nationellt samarbetsprojekt - UFCX, UFÖS, UFV, UFSK, UFS
 
@@ -321,7 +321,7 @@ IT-gruppen genom [[Alexander Sehlström]] och [[Tobias Jonsson]].
 >
 > Att 10 000 kr tas ur budgeten från punkten föreningsstöd och läggs över till distriktsstöd för detta syfte.
 
-[[Mikael Sunde]], [[Aleksander Lundqvist]], [[Mikaela Samuelsson]], [[Erika Wiberg]], [[Johanna Rogvall]], [[Johannes Edström]], [[Jenny Nilsson]], [[Johannes Z Wolff]], [[Safi Naesae]], [[Samuel Tylstedt]], [[Ruben Johnsson]], [[Tobias Nilsson]], [[Pia Swartz]], [[Lillian Fung]], [[David Berg]], [[Helene Andersson]], [[Martin Norlin]], [[Louise Wallin]], [[Andreas Källberg]], [[Antonia Papadopoulou]], [[Sarah Warsi]], [[Andreas Andersson]], [[Joakim Råman]], [[Marie Larsson]]
+[[Mikael Sunde]], [Aleksander Lundqvist](../../personer/Aleksander%20Lundqvist.md), [[Mikaela Samuelsson]], [Erika Wiberg](../../personer/Erika%20Wiberg.md), [Johanna Rogvall](../../personer/Johanna%20Rogvall.md), [[Johannes Edström]], [[Jenny Nilsson]], [Johannes Z Wolff](../../personer/Johannes%20Zeltner%20Wolff.md), [[Safi Naesae]], [Samuel Tylstedt](../../personer/Samuel%20Tylstedt.md), [[Ruben Johnsson]], [Tobias Nilsson](../../personer/Tobias%20Nilsson.md), [[Pia Swartz]], [[Lillian Fung]], [[David Berg]], [[Helene Andersson]], [Martin Norlin](../../personer/Martin%20Norlin.md), [Louise Wallin](../../personer/Louise%20Wallin.md), [[Andreas Källberg]], [Antonia Papadopoulou](../../personer/Antonia%20Papadopoulou.md), [Sarah Warsi](../../personer/Sarah%20Warsi.md), [[Andreas Andersson]], [[Joakim Råman]], [[Marie Larsson]]
 
 **Kommentar:** Anledningen till att vi valde att pengarna ska tas från föreningsstödet är för att det där finns ett "budgeterat överskott" (eftersom förbundet antagligen kommer få fler föreningar än förra året). Därför borde det vara okej att flytta 10 000 kr av dessa till projektet (bara ett förtydligande eftersom vissa undrade).
 
@@ -334,25 +334,25 @@ IT-gruppen genom [[Alexander Sehlström]] och [[Tobias Jonsson]].
 >
 > Att uppdra åt förbundsstyrelsen att utreda hur fonden kan utvecklas och förvaltas samt till Riksstämman 2009 presentera ett beslutsunderlag för fondens framtid.
 
-[[Linnéa Bengtsson]], [[Maja Söderkvist]], [[Guncha Welsapar]], [[Anders Lundberg]], [[Samuel Tylstedt]], [[Daniel Langkilde]], [[Joel Salholm]], [[Jens Roat Kultima]], [[Tobias Nilsson]], [[David Borg]], [[Andreas Svensson]], [[Andreas Andersson]], [[Linnéa Nilebäck]], [[Karl Larsson]], [[Harald Carlstrand]], [[Lillian Fung]], [[Mikael Sunde]], [[Martin Norlin]], [[Samuel Z Wolff]], [[Louise Wallin]], [[Emma Backlund]], [[Sara Magnusson]], [[Antonia Papadopoulou]], [[Sarah Warsi]], [[Johan Boström]], [[Erika Wiberg]]
+[[Linnéa Bengtsson]], [Maja Söderkvist](../../personer/Maja%20Söderkvist.md), [Guncha Welsapar](../../personer/Guncha%20Welsapar.md), [Anders Lundberg](../../personer/Anders%20Lundberg.md), [Samuel Tylstedt](../../personer/Samuel%20Tylstedt.md), [Daniel Langkilde](../../personer/Daniel%20Langkilde.md), [Joel Salholm](../../personer/Joel%20Salholm.md), [[Jens Roat Kultima]], [Tobias Nilsson](../../personer/Tobias%20Nilsson.md), [David Borg](../../personer/David%20Borg.md), [Andreas Svensson](../../personer/Andreas%20Svensson.md), [[Andreas Andersson]], [Linnéa Nilebäck](../../personer/Linnéa%20Nilebäck.md), [Karl Larsson](../../personer/Karl%20Larsson.md), [Harald Carlstrand](../../personer/Harald%20Carlstrand.md), [[Lillian Fung]], [[Mikael Sunde]], [Martin Norlin](../../personer/Martin%20Norlin.md), [[Samuel Z Wolff]], [Louise Wallin](../../personer/Louise%20Wallin.md), [[Emma Backlund]], [Sara Magnusson](../../personer/Sara%20Magnusson.md), [Antonia Papadopoulou](../../personer/Antonia%20Papadopoulou.md), [Sarah Warsi](../../personer/Sarah%20Warsi.md), [[Johan Boström]], [Erika Wiberg](../../personer/Erika%20Wiberg.md)
 
 **Kommentar:** Även om jag tycker att idén är mycket god vill jag mana till försiktighet, vi måste vara noga med att verksamheten aldrig blir lidande för att vi lägger pengar på hög. Det skulle se mycket illa ut. Jag kommer dock själv att bifalla förslaget då det har stor potential.
 
-[[Karl Larsson]]
+[Karl Larsson](../../personer/Karl%20Larsson.md)
 
 #### Allmänna kommentarer
 
 Jag tycker att det är lite märkligt att bara 5% av budgeten går till föreningar och distrikt, utan dem så har vi ju faktiskt inget förbund. Jag tycker att man skulle kunna ge runt 10% till föreningar och distrikt, särskilt nu när vissa distrikt har lite ont om pengar.
 
-[[Daniel Lundberg]], [[Johanna Rogvall]]
+[[Daniel Lundberg]], [Johanna Rogvall](../../personer/Johanna%20Rogvall.md)
 
 Då TEND-pengarna är låsta så går ungefär 10 procent av resterande summa till föreningsstöd. Därför känns det som ett orimligt mål i nuläget utan vidare specifikationer.
 
-[[Harald Carlstrand]], [[Pia Swartz]], [[Lillian Fung]]
+[Harald Carlstrand](../../personer/Harald%20Carlstrand.md), [[Pia Swartz]], [[Lillian Fung]]
 
 Budgeten innehåller ungefär 1,584 miljoner SEK som står FS fritt att disponera. Resten av pengarna är projektbundet stöd. Således utgör det lokala stödet ca 20% av den disponibla budgeten.
 
-[[Johan Andréasson]]
+[Johan Andréasson](../../personer/Johan%20Andréasson.md)
 
 ### §17 Fastställande av medlemsavgift för 2008
 
@@ -388,11 +388,11 @@ Budgeten innehåller ungefär 1,584 miljoner SEK som står FS fritt att disponer
 >[!yrkande]
 > Jag yrkar att följande väljs till valberedare för 2009 års RS:
 >
-> - [[Harald Carlstrand]]
-> - [[Ranjita Dutta Roy]]
-> - [[Erika Wiberg]]
-> - [[Rikard Ahgren]]
-> - [[Alexander Sehlström]]
+> - [Harald Carlstrand](../../personer/Harald%20Carlstrand.md)
+> - [Ranjita Dutta Roy](../../personer/Ranjita%20Dutta%20Roy.md)
+> - [Erika Wiberg](../../personer/Erika%20Wiberg.md)
+> - [Rikard Ahgren](../../personer/Rikard%20Ahgren.md)
+> - [Alexander Sehlström](../../personer/Alexander%20Sehlström.md)
 
 **Sammankallande valberedningen:**
 
@@ -401,7 +401,7 @@ Budgeten innehåller ungefär 1,584 miljoner SEK som står FS fritt att disponer
 >
 > Att välja Erika Wiberg till sammankallande i [valberedningen](../../verksamheter/Valberedningen.md).
 
-[[Johannes Z Wolff]], [[Samuel Z Wolff]], [[Martin Norlin]], [[Karin Andersson]], [[Jenny Nilsson]]
+[Johannes Z Wolff](../../personer/Johannes%20Zeltner%20Wolff.md), [[Samuel Z Wolff]], [Martin Norlin](../../personer/Martin%20Norlin.md), [[Karin Andersson]], [[Jenny Nilsson]]
 
 ### §19 Motioner
 
@@ -418,7 +418,7 @@ Budgeten innehåller ungefär 1,584 miljoner SEK som står FS fritt att disponer
 >
 > Att avslå att-sats 3.
 
-[[Karl Larsson]], [[Mikaela Samuelsson]], [[Linnéa Bengtsson]], [[Tobias Nilsson]], [[Rebecka Geijer Michaeli]], [[David Borg]], [[Martin Norlin]], [[Karin Andersson]]
+[Karl Larsson](../../personer/Karl%20Larsson.md), [[Mikaela Samuelsson]], [[Linnéa Bengtsson]], [Tobias Nilsson](../../personer/Tobias%20Nilsson.md), [[Rebecka Geijer Michaeli]], [David Borg](../../personer/David%20Borg.md), [Martin Norlin](../../personer/Martin%20Norlin.md), [[Karin Andersson]]
 
 **Motionssvar:**
 
@@ -431,7 +431,7 @@ Budgeten innehåller ungefär 1,584 miljoner SEK som står FS fritt att disponer
 
 **Kommentarer:** Under RS har bland annat FS lyft fram sin önskan att i större utsträckning än idag samordna förbundets verksamhet för att underlätta samarbete med partnerföretag och skolor. Det vore givetvis möjligt för de distrikt som är intresserade av att genomföra den här typen av projekt att själva söka pengar utifrån men väljer förbundet att gemensamt söka ekonomiskt stöd för all verksamhet av den här typen kommer varje enskilt projekt att besparas otaliga timmar av arbete. För pilotprojekten har jag yrkat på totalt 40 000 kr för två projekt (jag är dock villig att böja mig för FS förslag, 10 000 kr för ett projekt). Ekonomiskt stöd från förbundet är nödvändigt för att projektet effektivt skall kunna utvärdera idén och inte fastna i ett "sponsorträsk". Enligt min uppfattning bör inte distrikten sätta värde i att klara sig själva utan i största möjliga mån verka tillsammans med hela förbundet för att på bästa sätt kunna organisera en verksamhet som är till glädje för alla.
 
-[[Andreas Svensson]], [[Linnéa Nilebäck]]
+[Andreas Svensson](../../personer/Andreas%20Svensson.md), [Linnéa Nilebäck](../../personer/Linnéa%20Nilebäck.md)
 
 ### §20 Övriga frågor
 
@@ -446,7 +446,7 @@ Budgeten innehåller ungefär 1,584 miljoner SEK som står FS fritt att disponer
 >
 > Riksstämman ger [förbundsstyrelsen](../../verksamheter/FS%20(Förbundsstyrelsen).md) uppdraget att under kommande verksamhetsår utse en grupp som under kommande verksamhetsår skall utreda om föreningsbidraget bör förändras, så att bidraget står i annan proportion till antalet medlemmar i föreningen som söker bidrag, samt redovisa resultatet av utredningen på riksstämman 2009.
 
-[[Martin Norlin]], [[Samuel Z Wolff]], [[Helene Eriksson]], [[Karin Andersson]], [[Jenny Nilsson]], [[Erika Wiberg]], [[Johannes Z Wolff]], [[Johannes Edström]], [[Karl Larsson]]
+[Martin Norlin](../../personer/Martin%20Norlin.md), [[Samuel Z Wolff]], [Helene Eriksson](../../personer/Helene%20Eriksson.md), [[Karin Andersson]], [[Jenny Nilsson]], [Erika Wiberg](../../personer/Erika%20Wiberg.md), [Johannes Z Wolff](../../personer/Johannes%20Zeltner%20Wolff.md), [[Johannes Edström]], [Karl Larsson](../../personer/Karl%20Larsson.md)
 
 > Idag får varje förening med 5 medlemmar 2 000 kronor varje år som föreningsbidrag. En förening med 30 gånger fler medlemmar, 150, får ett endast 2,5 gånger större bidrag å 5 000 kronor. Dagens bidragssystem ger oproportionerligt lite pengar till större föreningar, och borde omarbetas.
 
@@ -455,11 +455,11 @@ Budgeten innehåller ungefär 1,584 miljoner SEK som står FS fritt att disponer
 >
 > Att Riksstämman ger förbundsstyrelsen uppdraget att under kommande verksamhetsår utreda hur föreningsbidraget kan förändras, så att bidraget står i bättre proportion till antalet medlemmar samt att till nästa riksstämma lämna en proposition till ett förändrat, mer proportionerligt, föreningsbidrag.
 
-[[Andreas Svensson]], [[Samuel Tylstedt]], [[Joakim Råman]], [[Tobias Nilsson]], [[David Borg]], [[Andreas Andersson]], [[Harald Carlstrand]], [[Britta Svensson]], [[Lillian Fung]], [[Pia Swartz]], [[Emma Backlund]], [[Daniel Billman]], [[Mikaela Samuelsson]], [[Anna Berg]], [[Linnéa Bengtsson]]
+[Andreas Svensson](../../personer/Andreas%20Svensson.md), [Samuel Tylstedt](../../personer/Samuel%20Tylstedt.md), [[Joakim Råman]], [Tobias Nilsson](../../personer/Tobias%20Nilsson.md), [David Borg](../../personer/David%20Borg.md), [[Andreas Andersson]], [Harald Carlstrand](../../personer/Harald%20Carlstrand.md), [[Britta Svensson]], [[Lillian Fung]], [[Pia Swartz]], [[Emma Backlund]], [[Daniel Billman]], [[Mikaela Samuelsson]], [[Anna Berg]], [[Linnéa Bengtsson]]
 
 **Kommentar:** Det nuvarande bidragssystemet är väldigt lågt ifall man jämför med t.ex. Sverok. Min åsikt är att 500 kr för fem medlemmar och 3 000 kr i medlemsbidrag för 150 medlemmar är väldigt lite. Min åsikt är att bidragsnivåerna för medlemsantal bör ses över. Däremot är verksamhetsbidraget bra som det är.
 
-[[Samuel Tylstedt]], [[Andreas Svensson]]
+[Samuel Tylstedt](../../personer/Samuel%20Tylstedt.md), [Andreas Svensson](../../personer/Andreas%20Svensson.md)
 
 #### §20b Riksstämman 2009
 
@@ -474,7 +474,7 @@ Budgeten innehåller ungefär 1,584 miljoner SEK som står FS fritt att disponer
 
 /UFCX styrelse
 
-Johooo Jeeeeee, [[Helene Eriksson]], [[Louise Wallin]], [[Erika Wiberg]], [[Samuel Z Wolff]], [[Virginia Wolff]], [[Linnéa Bengtsson]], [[Martin Norlin]], [[Jenny Nilsson]], [[Karin Andersson]]
+Johooo Jeeeeee, [Helene Eriksson](../../personer/Helene%20Eriksson.md), [Louise Wallin](../../personer/Louise%20Wallin.md), [Erika Wiberg](../../personer/Erika%20Wiberg.md), [[Samuel Z Wolff]], [[Virginia Wolff]], [[Linnéa Bengtsson]], [Martin Norlin](../../personer/Martin%20Norlin.md), [[Jenny Nilsson]], [[Karin Andersson]]
 
 #### Policy för massutskick
 
@@ -508,11 +508,11 @@ PS. Jag har ett detaljerat förslag på policy som jag vill överlämna till IT-
 >[!yrkande]
 > Att FUF borde uppmärksamma astronomiåret 2009 och utreder möjligheten att genomföra ett astronomirelaterat arrangemang i samband med detta.
 
-[[Andreas Svensson]], [[Britta Svensson]], [[Samuel Tylstedt]], [[Sarah Warsi]], [[Naweed Meer]], [[Rikard Ahgren]], [[Linnéa Bengtsson]], [[Karin Andersson]], [[Linnéa Nilebäck]], [[Johannes Edström]], [[Joakim Öfverholm]], [[Sara Magnusson]], [[Emma Backlund]], [[Erika Wiberg]], [[Helene Eriksson]], [[Martin Norlin]], [[Jenny Nilsson]]
+[Andreas Svensson](../../personer/Andreas%20Svensson.md), [[Britta Svensson]], [Samuel Tylstedt](../../personer/Samuel%20Tylstedt.md), [Sarah Warsi](../../personer/Sarah%20Warsi.md), [[Naweed Meer]], [Rikard Ahgren](../../personer/Rikard%20Ahgren.md), [[Linnéa Bengtsson]], [[Karin Andersson]], [Linnéa Nilebäck](../../personer/Linnéa%20Nilebäck.md), [[Johannes Edström]], [Joakim Öfverholm](../../personer/Joakim%20Öfverholm.md), [Sara Magnusson](../../personer/Sara%20Magnusson.md), [[Emma Backlund]], [Erika Wiberg](../../personer/Erika%20Wiberg.md), [Helene Eriksson](../../personer/Helene%20Eriksson.md), [Martin Norlin](../../personer/Martin%20Norlin.md), [[Jenny Nilsson]]
 
 **Kommentar:** Varför tar ni inte initiativ själv? Alla saker behöver inte börja med att man uppmanar FS att ta tag i saken. Exempelvis vore väl Astronomiåret en gyllene chans för både distrikt och föreningar att få ett bra tema som deras verksamhet kan baseras på!
 
-[[Johan Andréasson]], [[Maja Söderkvist]], [[Alexander Sehlström]], [[Anna-Maria Wiberg]], [[Joel Salholm]], [[Anders Lundberg]], [[Antonia Papadopoulou]]
+[Johan Andréasson](../../personer/Johan%20Andréasson.md), [Maja Söderkvist](../../personer/Maja%20Söderkvist.md), [Alexander Sehlström](../../personer/Alexander%20Sehlström.md), [[Anna-Maria Wiberg]], [Joel Salholm](../../personer/Joel%20Salholm.md), [Anders Lundberg](../../personer/Anders%20Lundberg.md), [Antonia Papadopoulou](../../personer/Antonia%20Papadopoulou.md)
 
 **Vad gör FUF under Astronomiåret 2009, Revision 2:**
 
@@ -525,4 +525,4 @@ PS. Jag har ett detaljerat förslag på policy som jag vill överlämna till IT-
 
 > Vi anser att forskning på gymnasie- och tidig universitetsnivå har stor potential att utvecklas i Sverige. För att uppnå detta vill vi förbättra möjligheterna att forska som ung. Metoder att genomföra detta kan vara att öka kunskapen om att forskning på tidig nivå är möjligt samt att skapa ekonomiska förutsättningar. Vi anser att Förbundet Unga Forskare borde satsa mer på att uppmuntra och stödja ung forskning. Idag är FUF:s stora mål att öka intresset för naturvetenskap och teknik och vi anser att förbundet också måste fokusera på forskning, en naturlig produkt av detta intresse. Vi tänker starta en utredningsgrupp som fram till nästa riksstämma kommer att undersöka om det är aktuellt för FUF att satsa på ung forskning, och vilka möjligheter och hinder som existerar i dagsläget. Om du känner för att vara med i en sådan grupp så skriv upp dig här.
 
-[[Johan Boström]], [[David Borg]]
+[[Johan Boström]], [David Borg](../../personer/David%20Borg.md)

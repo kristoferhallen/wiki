@@ -33,19 +33,19 @@ kategorier:
 
 ## §1 **Stämmans öppnande**
 
-> Förbundsordförande [[Karolina Åseby]] hälsar alla välkomna och förklarar
+> Förbundsordförande [Karolina Åseby](../../personer/Karolina%20Åseby.md) hälsar alla välkomna och förklarar
 > Förbundet Unga Forskares Riksstämma 2004 öppnad.
 
 ## §2 **Val av mötesordförande och mötessekreterare**
 
-> Till mötesordförande väljs [[Lage Rahm]].
+> Till mötesordförande väljs [Lage Rahm](../../personer/Lage%20Rahm.md).
 >
 > Till mötessekreterare väljs [[Marina Sánchez Romaní]].
 
 ## §3 **Val av två justerare, tillika rösträknare**
 
-> Till justerare, tillika rösträknare, väljs [[Andreas Rocén]] och
-> [[Sarah Warsi]].
+> Till justerare, tillika rösträknare, väljs [Andreas Rocén](../../personer/Andreas%20Rocén.md) och
+> [Sarah Warsi](../../personer/Sarah%20Warsi.md).
 
 ## §4 **Fråga om stämman är stadgeenligt kallad**
 
@@ -59,9 +59,9 @@ kategorier:
 
 ### §6a **Fastställande av arbetsformer**
 
-> [[Anna Alfredsson]] informerar om påverkanstorg och svarar på frågor.
+> [Anna Alfredsson](../../personer/Anna%20Alfredsson.md) informerar om påverkanstorg och svarar på frågor.
 >
-> [[Lage Rahm]] informerar om plenumförfarande och mötesordning.
+> [Lage Rahm](../../personer/Lage%20Rahm.md) informerar om plenumförfarande och mötesordning.
 
 >[!beslut]
 > RS beslutar
@@ -71,7 +71,7 @@ kategorier:
 
 ### §6b **Fastställande av dagordningen**
 
-> [[Hanna Modin]] informerar om att lördagens plenum slutar efter punkt 9.
+> [Hanna Modin](../../personer/Hanna%20Modin.md) informerar om att lördagens plenum slutar efter punkt 9.
 
 >[!beslut]
 > RS beslutar
@@ -99,7 +99,7 @@ kategorier:
 - Organisationsutveckling
 
 >[!yrkande]
-> [[Johan Andréasson]] yrkar:
+> [Johan Andréasson](../../personer/Johan%20Andréasson.md) yrkar:
 >
 > att lägga till Övriga frågor till punkten Valberedningens förslag.
 
@@ -117,11 +117,11 @@ kategorier:
 
 *Punkt:* Stadgeändringsförslag
 
-*Inflytandeansvarig:* [[Lage Rahm]]
+*Inflytandeansvarig:* [Lage Rahm](../../personer/Lage%20Rahm.md)
 
 *Punkt:* Valberedningens förslag och Övriga frågor
 
-*Inflytandeansvarig:* [[Robert Jacobsson]]
+*Inflytandeansvarig:* [Robert Jacobsson](../../personer/Robert%20Jacobsson.md)
 
 *Punkt:* Verksamhetsberättelse och ekonomisk berättelse
 
@@ -137,7 +137,7 @@ Verksamhetsplan och budget
 
 *Inflytandeansvarig:* [Pererik Andreasson](../../personer/Pererik%20Andreasson.md)
 
-> [[Anna Alfredsson]] föreslår att inflytandepunktsansvariga presenterar sig
+> [Anna Alfredsson](../../personer/Anna%20Alfredsson.md) föreslår att inflytandepunktsansvariga presenterar sig
 > själva kort.
 
 Inflytandepunktsansvariga presenterar sig kort
@@ -156,7 +156,7 @@ Förbundsstyrelsen föreslår stämman:
 >[!yrkande]
 > Förbundsstyrelsen föreslår
 >
-> att till redaktionsutskottet utse [Björn Sällström](../../personer/Björn%20Sällström.md), [Martin Olsson](../../personer/Martin%20Olsson.md), [Pererik Andreasson](../../personer/Pererik%20Andreasson.md), [[Johan Andréasson]]
+> att till redaktionsutskottet utse [Björn Sällström](../../personer/Björn%20Sällström.md), [Martin Olsson](../../personer/Martin%20Olsson.md), [Pererik Andreasson](../../personer/Pererik%20Andreasson.md), [Johan Andréasson](../../personer/Johan%20Andréasson.md)
 
 >[!beslut]
 > RS beslutar
@@ -183,31 +183,31 @@ Förbundsstyrelsen föreslår stämman:
 
 ## §8 **Valberedningen har ordet**
 
-> [[Robert Jacobsson]] föredrar valberedningens förslag.
+> [Robert Jacobsson](../../personer/Robert%20Jacobsson.md) föredrar valberedningens förslag.
 
 *Ordförande:*
 
-[[Tobias Bladini]] (nyval)
+[Tobias Bladini](../../personer/Tobias%20Bladini.md) (nyval)
 
 *Förslag till Omval:*
 
-[[Anna Alfredsson]]
+[Anna Alfredsson](../../personer/Anna%20Alfredsson.md)
 
-[[Johan Andréasson]]
+[Johan Andréasson](../../personer/Johan%20Andréasson.md)
 
-[[Azra Habibovic]]
+[Azra Habibovic](../../personer/Azra%20Habibovic.md)
 
-[[Lorena Grubisic]]
+[Lorena Grubisic](../../personer/Lorena%20Grubisic.md)
 
 [Martin Lennartsson](../../personer/Martin%20Lennartsson.md)
 
-[[Hanna Modin]]
+[Hanna Modin](../../personer/Hanna%20Modin.md)
 
-[[Karolina Åseby]]
+[Karolina Åseby](../../personer/Karolina%20Åseby.md)
 
 *Nyval:*
 
-[[Marcus Andersson]]
+[Marcus Andersson](../../personer/Marcus%20Andersson.md)
 
 [[Anna-Maria Wiberg]]
 
@@ -215,45 +215,45 @@ Förbundsstyrelsen föreslår stämman:
 
 *Förslag på revisorer:*
 
-> [[Sune Johnsson]], [[Öhrlings PricewaterhouseCoopers]]
+> [Sune Johnsson](../../personer/Sune%20Johnson.md), [[Öhrlings PricewaterhouseCoopers]]
 
-[[Sune Hilstad]], [[Ingenjörssamfundet]].
+[Sune Hilstad](../../personer/Sune%20Hilstad.md), [[Ingenjörssamfundet]].
 
 *Förslag på revisorssuppleanter:*
 
-[[Magnus Backlund]], [[Öhrlings PricewaterhouseCoopers]]
+[Magnus Backlund](../../personer/Magnus%20Backlund.md), [[Öhrlings PricewaterhouseCoopers]]
 
 [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 
-> [[Anna Alfredsson]] föreslår de närvarande föreslagna presenterar sig
+> [Anna Alfredsson](../../personer/Anna%20Alfredsson.md) föreslår de närvarande föreslagna presenterar sig
 > själva kort.
 
 De föreslagna presenterar sig kort.
 
-[[Hanna Modin]] informerar:
+[Hanna Modin](../../personer/Hanna%20Modin.md) informerar:
 
 att ny valberedning ska väljas
 
-[[Tobias Bladini]] informerar:
+[Tobias Bladini](../../personer/Tobias%20Bladini.md) informerar:
 
 att det finns ännu möjlighet att lägga fler förslag /byta ut föreslagna
 
 ## §9 **Presentation av verksamhetsplan**
 
-> [[Karolina Åseby]] och [[Johan Andréasson]] föredrar FS förslag på
-> verksamhetsplan. [[Hanna Modin]] och [[Tobias Bladini]] illustrerar den
+> [Karolina Åseby](../../personer/Karolina%20Åseby.md) och [Johan Andréasson](../../personer/Johan%20Andréasson.md) föredrar FS förslag på
+> verksamhetsplan. [Hanna Modin](../../personer/Hanna%20Modin.md) och [Tobias Bladini](../../personer/Tobias%20Bladini.md) illustrerar den
 > genom dramatisering.
 >
-> [[Karolina Åseby]] presenterar, tillsammans med FS, inflytandepunkterna
+> [Karolina Åseby](../../personer/Karolina%20Åseby.md) presenterar, tillsammans med FS, inflytandepunkterna
 > inför påverkanstorget.
 >
 > [[Linnea Kjeldgård]] informerar om dagens tider.
 >
-> [[Lage Rahm]] informerar om att påverkanstorget börjar 5 minuter efter
+> [Lage Rahm](../../personer/Lage%20Rahm.md) informerar om att påverkanstorget börjar 5 minuter efter
 > dagens plenum och fortsätter efter dagens studiebesök fram till och
 > med 18.00.
 >
-> [[Anna Alfredsson]], [[Hanna Modin]] och [Björn Sällström](../../personer/Björn%20Sällström.md)
+> [Anna Alfredsson](../../personer/Anna%20Alfredsson.md), [Hanna Modin](../../personer/Hanna%20Modin.md) och [Björn Sällström](../../personer/Björn%20Sällström.md)
 > informerar om påverkanstorgets förfarande angående förslag och
 > kommentarer.
 >
@@ -424,7 +424,7 @@ Inflytandepunktens huvudyrkande angående stadgeändringsförslaget:
 > att 13 II c avslås.
 
 >[!yrkande]
-> [[Johan Andréasson]] yrkar:
+> [Johan Andréasson](../../personer/Johan%20Andréasson.md) yrkar:
 >
 > **Omedelbar justering**
 
@@ -530,7 +530,7 @@ Inflytandepunktens huvudyrkande angående stadgeändringsförslaget:
 >[!yrkande]
 > Inflytandepunktens huvudyrkande angående förbundsordförande för 2004:
 >
-> att till förbundsordförande välja [[Tobias Bladini]]
+> att till förbundsordförande välja [Tobias Bladini](../../personer/Tobias%20Bladini.md)
 
 >[!beslut]
 > RS beslutar
@@ -564,7 +564,7 @@ Inflytandepunktens huvudyrkande angående stadgeändringsförslaget:
 Övriga yrkanden:
 
 >[!yrkande]
-> 19 b att anta valberedningens förlag med tillägget [[Maja Söderquist]]
+> 19 b att anta valberedningens förlag med tillägget [Maja Söderquist](../../personer/Maja%20Söderkvist.md)
 > (nyval) och [[Fredric Wolters]] (nyval).
 
 >[!beslut]
@@ -590,16 +590,16 @@ Inflytandepunktens huvudyrkande angående stadgeändringsförslaget:
 >[!yrkande]
 > Inflytandepunktens huvudyrkande angående valberedning:
 >
-> a. att välja [[Andreas Rocén]] till sammankallande ledamot i
+> a. att välja [Andreas Rocén](../../personer/Andreas%20Rocén.md) till sammankallande ledamot i
 > valberedningen.
 >
 > b. att välja [[Linnea Kjeldgård]] till ledamot i valberedningen.
 >
-> c. att välja [[Per Bengtsson]] till ledamot i valberedningen.
+> c. att välja [Per Bengtsson](../../personer/Per%20Bengtsson.md) till ledamot i valberedningen.
 >
 > d. att välja [[Ann Du]] till ledamot i valberedningen.
 >
-> e. att välja [[Sarah Warsi]] till ledamot i valberedningen.
+> e. att välja [Sarah Warsi](../../personer/Sarah%20Warsi.md) till ledamot i valberedningen.
 
 >[!beslut]
 > RS beslutar
@@ -632,7 +632,7 @@ Inflytandepunktens huvudyrkande angående stadgeändringsförslaget:
 
 ## §23 **Stämmans avslutande**
 
-Förbundsordförande [[Tobias Bladini]] förklarar 2004 års riksstämma
+Förbundsordförande [Tobias Bladini](../../personer/Tobias%20Bladini.md) förklarar 2004 års riksstämma
 avslutad.
 
 BILAGOR TILL PROTOKOLLET:

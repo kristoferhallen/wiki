@@ -3,7 +3,7 @@
 >[!yrkande]
 > Valberedningen föreslår Riksstämman besluta
 >
-> att välja [[Anders Lundberg]] till förbundsordförande
+> att välja [Anders Lundberg](../../personer/Anders%20Lundberg.md) till förbundsordförande
 
 ## Fastställande av styrelsens storlek
 
@@ -19,20 +19,20 @@
 >
 > att välja följande personer till ledamöter:
 >
-> * [[Joel Salholm]]
-> * [[Tobias Jonsson]]
-> * [[Sara Magnusson]]
-> * [[Alexander Sehlström]]
-> * [[Antonia Papadopoulou]]
-> * [[Daniel Langkilde]]
-> * [[Guncha Welsapar]]
-> * [[Rebecka Lindén]]
+> * [Joel Salholm](../../personer/Joel%20Salholm.md)
+> * [Tobias Jonsson](../../personer/Tobias%20Jonsson.md)
+> * [Sara Magnusson](../../personer/Sara%20Magnusson.md)
+> * [Alexander Sehlström](../../personer/Alexander%20Sehlström.md)
+> * [Antonia Papadopoulou](../../personer/Antonia%20Papadopoulou.md)
+> * [Daniel Langkilde](../../personer/Daniel%20Langkilde.md)
+> * [Guncha Welsapar](../../personer/Guncha%20Welsapar.md)
+> * [Rebecka Lindén](../../personer/Rebecka%20Lindén.md)
 
 ## Val av två revisorer samt två revisorssuppleanter
 
 >[!yrkande]
 > Valberedningen föreslår Riksstämman besluta
 >
-> att välja [[Sune Hilstad]] samt [[Magnus Backlund]] till revisorer
+> att välja [Sune Hilstad](../../personer/Sune%20Hilstad.md) samt [Magnus Backlund](../../personer/Magnus%20Backlund.md) till revisorer
 >
-> att välja [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) samt [[Sune Johnsson]] till revisorssuppleanter
+> att välja [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) samt [Sune Johnsson](../../personer/Sune%20Johnson.md) till revisorssuppleanter

@@ -30,7 +30,7 @@ rösträknare:
 
 ## § 1 Stämmans öppnande
 
-Förbundsordförande [[../../personer/Kristofer Hallén]] hälsar alla välkomna och förklarar Förbundet Unga Forskares Riksstämma 2001 öppnad.
+Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) hälsar alla välkomna och förklarar Förbundet Unga Forskares Riksstämma 2001 öppnad.
 
 ## §2 Val av mötesordförande och mötessekreterare
 
@@ -38,7 +38,7 @@ Förbundsordförande [[../../personer/Kristofer Hallén]] hälsar alla välkomna
 
 ## §3 Val av två justerare, tillika rösträknare
 
-[[Tobias Bladini]] och [Elisabet Nilebäck](../../personer/Elisabet%20Nilebäck.md), väljs till justerare, tillika rösträknare.
+[Tobias Bladini](../../personer/Tobias%20Bladini.md) och [Elisabet Nilebäck](../../personer/Elisabet%20Nilebäck.md), väljs till justerare, tillika rösträknare.
 
 ## §4 Fastställande av dagordningen
 
@@ -52,7 +52,7 @@ Beslutas att fastställa röstlängden vid en eventuell votering.
 
 ## § 7 Styrelsens verksamhetsberättelse för FUF 2000
 
-Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) och förbundsstyrelseledamot [[../../personer/Linda Svensson]] presenterar förbundets verksamhetsberättelse för ar 2000.
+Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) och förbundsstyrelseledamot [Linda Svenson](../../personer/Linda%20Svenson.md) presenterar förbundets verksamhetsberättelse för ar 2000.
 
 > [!Beslut]+
 > 
@@ -60,7 +60,7 @@ Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) 
 
 ## § 8 Resultaträkning och balansräkning för FUF 2000
 
-Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) och förbundsstyrelseledamot [Linda Svensson](../../personer/Linda%20Svensson.md) presenterar resultat- och balansräkning för FUF år 2000.
+Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) och förbundsstyrelseledamot [Linda Svenson](../../personer/Linda%20Svenson.md) presenterar resultat- och balansräkning för FUF år 2000.
 
 >[!beslut]+
 >
@@ -81,7 +81,7 @@ Förbundet Unga Forskare ar 2000.
 
 ## § 11 Styrelsens verksamhetsberättelse för GCB 2000
 
-Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) och förbundsstyrelseledamot [[../../personer/Björn Sällström]] presenterar verksamhetsberättelsen för Stiftelsen [Gundel Cornelia Babs stipendiefond](../../verksamheter/GCB%20(Gundel%20Cornelia%20Babs%20stipendiefond).md) för Unga Forskare år 2000.
+Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) och förbundsstyrelseledamot [Björn Sällström](../../personer/Björn%20Sällström.md) presenterar verksamhetsberättelsen för Stiftelsen [Gundel Cornelia Babs stipendiefond](../../verksamheter/GCB%20(Gundel%20Cornelia%20Babs%20stipendiefond).md) för Unga Forskare år 2000.
 
 >[!beslut]+
 >Beslutas att lägga verksamhetsberättelsen för Stiftelsen Gundel Cornelias stipendiefond för Unga Forskare år 2000 till handlingarna (se bilaga 6).
@@ -229,7 +229,7 @@ Till Riksstämman 2001 har två motioner inkommit (se bilaga 9 och bilaga 10).
 
 ### Motion: Vi behöver ett manifest
 
-[[../../personer/Martin Lennartsson]], presenterar motionen. Förbundsstyrelsen yrkar avslag.
+[Martin Lennartsson](../../personer/Martin%20Lennartsson.md), presenterar motionen. Förbundsstyrelsen yrkar avslag.
 [[Carl-Johan Svenningsson]], presenterar ett motyrkande (se bilaga 11).
 [[Linda Eriksson]], redogör för resultatet av tidigare plenumförberedande diskussioner.
 [[Carl-Johan Svenningsson]] yrkar att förbundsstyrelsen tillsätter en grupp som utreder frågan (se bilaga 12).
@@ -245,16 +245,16 @@ Till Riksstämman 2001 har två motioner inkommit (se bilaga 9 och bilaga 10).
 
 ### Motion: Angående rösträtt på riksstämman
 
-[[../../personer/Ulrik Franke]], presenterar motionen. Förbundsstyrelsen yrkar avslag.
+[Ulrik Franke](../../personer/Ulrik%20Franke.md), presenterar motionen. Förbundsstyrelsen yrkar avslag.
 
-[[Sara Karlsson]] och [[../../personer/Martin Olsson]], förbundsstyrelsen, redogör för resultatet av tidigare plenumförberedande diskussioner.
+[[Sara Karlsson]] och [Martin Olsson](../../personer/Martin%20Olsson.md), förbundsstyrelsen, redogör för resultatet av tidigare plenumförberedande diskussioner.
 
 >[!beslut]+
 >Beslutas att avslå motionen.
 
 ## § 18 Fastställande av verksamhetsplan för 2001
 
- Förbundsstyrelseledamot [Linda Svensson](../../personer/Linda%20Svensson.md) presenterar förbundsstyrelsens förslag pả verksamhetsplan för ảr 2001.
+ Förbundsstyrelseledamot [Linda Svenson](../../personer/Linda%20Svenson.md) presenterar förbundsstyrelsens förslag pả verksamhetsplan för ảr 2001.
 
 >[!beslut]+
 >Beslutas att fastställa verksamhetsplanen för Förbundet Unga Forskare med tillägg enligt bilaga 13 (slutgiltig verksamhetsplan: bilaga 13)
@@ -274,7 +274,7 @@ Beslutas att anta styrelsens förslag till budget för år 2001.
 
 ## § 20 Fastställande av medlemsavgift för 2001
 
-Ledamot [[../../personer/José-Gabriel Sato Folatre]] presenterar styrelsens förslag att ingen medlemsavgift skall tas ut av föreningarna under år 2001.
+Ledamot [José-Gabriel Sato Folatre](../../personer/José-Gabriel%20Sato%20Folatre.md) presenterar styrelsens förslag att ingen medlemsavgift skall tas ut av föreningarna under år 2001.
 
 >[!beslut]+
 >Beslutas att Förbundet Unga Forskares medlemsavgift skall vara noll (0) kronor.
@@ -298,15 +298,15 @@ Valberedningen presenterar sitt förslag på styrelseledamöter. Inga ytterligar
 
 Följande personer väljs till styrelseledamöter i Förbundet Unga Forskare:
 
-* [[Lisa Hagqvist]] (omval)
+* [Lisa Hagqvist](../../personer/Lisa%20Hagqvist.md) (omval)
 * [Martin Olsson](../../personer/Martin%20Olsson.md) (omval)
 * [Anders Sahlman](../../personer/Anders%20Sahlman.md)(omval)
-* [Linda Svensson](../../personer/Linda%20Svensson.md)(omval)
-* [[Anna Alfredsson]] (nyval)
-* [[Per Bengtsson]] (nyval)
-* [[Hanna Modin]] (nyval)
-* [[Daniel Nilebäck]] (nyval)
-* [[Lina Sundberg]](nyvall)
+* [Linda Svenson](../../personer/Linda%20Svenson.md)(omval)
+* [Anna Alfredsson](../../personer/Anna%20Alfredsson.md) (nyval)
+* [Per Bengtsson](../../personer/Per%20Bengtsson.md) (nyval)
+* [Hanna Modin](../../personer/Hanna%20Modin.md) (nyval)
+* [Daniel Nilebäck](../../personer/Daniel%20Nilebäck.md) (nyval)
+* [Lina Sundberg](../../personer/Lina%20Sundberg.md)(nyvall)
 * [[Karonlina Åseby]](nyval)
 
 ## §24 Val av två revisorer samt två revisorssuppleanter
@@ -331,14 +331,14 @@ Sju övriga frågor anmäls (se nedan).
 
 ### Statsbidrag
 
-[[Linus Gustavsson]], [UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md), föreslår att ålägga förbundsstyrelsen att utreda konsekvenserna av att förbundet ej är statsbidragsberättigat för förbundet, distrikten och föreningarna.
+[Linus Gustavsson](../../personer/Linus%20Gustafsson.md), [UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md), föreslår att ålägga förbundsstyrelsen att utreda konsekvenserna av att förbundet ej är statsbidragsberättigat för förbundet, distrikten och föreningarna.
 
 >[!belslut]+
 >Beslutas att ålägga FS att utreda konsekvenserna av att förbundet ej är statsbidragsberättigat för förbundet, distrikten och föreningarna.
 
 ### Tillägg till stadgan $38
 
-[[Lisa Hagqvist]], förbundsstyrelsen, presenterar förslag till stadgeändring av stadgan $38 (se bilaga 16).
+[Lisa Hagqvist](../../personer/Lisa%20Hagqvist.md), förbundsstyrelsen, presenterar förslag till stadgeändring av stadgan $38 (se bilaga 16).
 
 Beslutas att genomföra stadgeändringen.
 
@@ -351,7 +351,7 @@ Beslutas att genomföra stadgeändringen.
 
 ### Tillägg till stadgan $23 -1
 
-[[Robert Jakobsson]], presenterar förslag till stadgeändring av stadgan §23 (se bilaga 18).
+[Robert Jakobsson](../../personer/Robert%20Jacobsson.md), presenterar förslag till stadgeändring av stadgan §23 (se bilaga 18).
 
 >[!beslut]+
 >Beslutas att avslå förslaget.
@@ -365,7 +365,7 @@ Beslutas att genomföra stadgeändringen.
 
 ### Tillägg till stadgan $23 -3
 
-[[Robert Jakobsson]], presenterar ytterligare ett förslag till stadgeändring av stadgan §23 (se bilaga 20).
+[Robert Jakobsson](../../personer/Robert%20Jacobsson.md), presenterar ytterligare ett förslag till stadgeändring av stadgan §23 (se bilaga 20).
 
 >[!beslut]+
 >Beslutas att avslå förslaget.

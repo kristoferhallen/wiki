@@ -17,7 +17,7 @@ rösträknare:
   - "[[Camilla Westrén]]"
 inflytandepunktsansvariga:
   - "[[Per Wallén]]"
-  - "[[Lage Rahn]]"
+  - "[[Lage Rahm]]"
   - "[[Gunnar Hagqvist]]"
   - "[[Tobias Bladini]]"
 redaktionsutskott:
@@ -28,7 +28,7 @@ kategorier:
 
 ## § 1 Stämmans öppnande
 
-Förbundsordförande [[Kristofer Hallén]] hälsar alla välkomna och förklarar
+Förbundsordförande [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) hälsar alla välkomna och förklarar
 Förbundet Unga Forskares Riksstämma 2002 öppnad.
 
 ## § 2 Val av mötesordförande och mötessekreterare
@@ -36,7 +36,7 @@ Förbundet Unga Forskares Riksstämma 2002 öppnad.
 >[!beslut]+
 >RS beslutar
 >att till ordförande för stämman välja [[Gunnar Hagqvist]].
->att till sekreterare för stämman välja [[Tobias Bladini]].
+>att till sekreterare för stämman välja [Tobias Bladini](../../personer/Tobias%20Bladini.md).
 
 ## § 3 Val av tvá justerare, tillika rösträknare
 
@@ -62,7 +62,7 @@ Förbundet Unga Forskares Riksstämma 2002 öppnad.
 ## § 6 Fastställande av arbetsformer och inflytandepunkter. Val av inflytandepunktsansvariga och redaktionsutskott. Fastställande av föredragningslistan
 
 [[Gunnar Hagqvist]] informerar om påverkanstorg och svarar på frågor.
-[[Lisa Hagqvist]] informerar om varför FS lagt som förslag att RS ska använda sig av paverkanstorg.
+[Lisa Hagqvist](../../personer/Lisa%20Hagqvist.md) informerar om varför FS lagt som förslag att RS ska använda sig av paverkanstorg.
 
 >[!yrkande]+
 >[[Stefan Barth]] yrkar
@@ -70,7 +70,7 @@ Förbundet Unga Forskares Riksstämma 2002 öppnad.
 >att RS ska ha möjlighet att ha fortsatt traditionellt plenum vare sig det blir ett paverkanstorg eller ej.
 
 >[!yrkande]+
->[[Martin Lennartsson]] yrkar
+>[Martin Lennartsson](../../personer/Martin%20Lennartsson.md) yrkar
 >
 >att avslå ursprungsförslaget om att använda paverkanstorg
 
@@ -85,7 +85,7 @@ Förbundet Unga Forskares Riksstämma 2002 öppnad.
 >
 >Följande personer väljer att reservera sig mot beslutet:
 [[Stefan Barth]] från [[Gotlands Unga Forskare]]
-> [[Martin Lennartsson]] från [UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md),
+> [Martin Lennartsson](../../personer/Martin%20Lennartsson.md) från [UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md),
 > [[Erik Druid]] från [UFS](../../distrikt/UFS%20(Unga%20Forskare%20Stockholm).md)
 
 >[!beslut]+
@@ -93,17 +93,17 @@ Förbundet Unga Forskares Riksstämma 2002 öppnad.
 >
 >Att avslå förslaget om att observatörer ska fä lägga yrkanden pả påverkanstorget.
 
-[[Lisa Hagqvist]] och [[Hanna Modin]] informerar om tillvägagångssätt för påverkanstorg.
+[Lisa Hagqvist](../../personer/Lisa%20Hagqvist.md) och [Hanna Modin](../../personer/Hanna%20Modin.md) informerar om tillvägagångssätt för påverkanstorg.
 
 ### Fastställande av inflytandepunkter
 
 Förbundsstyrelsen förelägger stämman följande förslag till inflytandepunkter och inflytandepunktsansvariga:
 
 - Verksamhet: [[Per Wallén]]
-- Ekonomi: [[Lage Rahm]]
+- Ekonomi: [Lage Rahm](../../personer/Lage%20Rahm.md)
 - Idémanifest: [[Gunnar Hagqvist]]
-- Valberedning: [[Tobias Bladini]]
-- Övriga frågor: [[Tobias Bladini]]
+- Valberedning: [Tobias Bladini](../../personer/Tobias%20Bladini.md)
+- Övriga frågor: [Tobias Bladini](../../personer/Tobias%20Bladini.md)
 
 >[!beslut]+
 >RS beslutar
@@ -119,7 +119,7 @@ Att anta förslaget om inflytandepunktsansvariga.
 
 >[!forslag]+
 Förbundsstyrelsen föreslår stämman
->Att till redaktionsutskottet utse [[Per Wallén]], [[Lage Rahm]], [[Gunnar Hagqvist]], [[Tobias Bladini]] och [[Kristofer Hallén]].
+>Att till redaktionsutskottet utse [[Per Wallén]], [Lage Rahm](../../personer/Lage%20Rahm.md), [[Gunnar Hagqvist]], [Tobias Bladini](../../personer/Tobias%20Bladini.md) och [Kristofer Hallén](../../personer/Kristofer%20Hallén.md).
 
 >[!beslut]+
 >RS beslutar
@@ -133,12 +133,12 @@ Förbundsstyrelsen föreslår stämman
 >Att ändra i § 13 från "21 december" till "31 december".
 
 >[!yrkande]+
->[[Johan Andréasson]] yrkar på
+>[Johan Andréasson](../../personer/Johan%20Andréasson.md) yrkar på
 >
 >Att ändra i § 7 från "förbundsstämmans" till "Riksstämmans".
 
 >[!yrkande]+
-[[Lisa Hagqvist]] yrkar på
+[Lisa Hagqvist](../../personer/Lisa%20Hagqvist.md) yrkar på
 >
 >Att ändra i § 20 frän "Motioner" till "Motioner och rapport frän Riksstämman 2001 angående idémanifest".
 
@@ -156,11 +156,11 @@ Att anta förslaget om mötesregler för riksstämman.
 
 ## §8 Valberedningen har ordet
 
-[[Martin Lennartsson]] föredrar valberedningens förslag.
+[Martin Lennartsson](../../personer/Martin%20Lennartsson.md) föredrar valberedningens förslag.
 
 ## $9 Presentation av verksamhetsplan
 
-[[Linda Svenson]] föredrar FS förslag pa verksamhetsplan.
+[Linda Svenson](../../personer/Linda%20Svenson.md) föredrar FS förslag pa verksamhetsplan.
 
 Mötet ajourneras från klockan 12.00 till 10.00 nästkommande dag.
 
@@ -475,7 +475,7 @@ Valberedningen presenterar förslag till förbundsordförande.
 >[!beslut]+
 >RS beslutar
 >
-Att till förbundsordförande välja [[Karolina Åseby]].
+Att till förbundsordförande välja [Karolina Åseby](../../personer/Karolina%20Åseby.md).
 
 ### $ 25 Fastställande av styrelsens storlek
 
@@ -507,16 +507,16 @@ Valberedningen presenterar förslag till styrelseledamöter:
 
 ### Omval
 
-[[Anna Alfredsson]], [[Per Bengtsson]], [[Daniel Nilebäck]], [[Hanna Modin]], [[Martin Olsson]], [[Anders Sahlman]], [[Lina Sundberg]], [[Linda Svenson]]
+[Anna Alfredsson](../../personer/Anna%20Alfredsson.md), [Per Bengtsson](../../personer/Per%20Bengtsson.md), [Daniel Nilebäck](../../personer/Daniel%20Nilebäck.md), [Hanna Modin](../../personer/Hanna%20Modin.md), [Martin Olsson](../../personer/Martin%20Olsson.md), [Anders Sahlman](../../personer/Anders%20Sahlman.md), [Lina Sundberg](../../personer/Lina%20Sundberg.md), [Linda Svenson](../../personer/Linda%20Svenson.md)
 
 ### Nyval
 
-[[Linus Gustavsson]], [[Linda Johansson]]
+[Linus Gustavsson](../../personer/Linus%20Gustafsson.md), [[Linda Johansson]]
 
 >[!yrkande]+
->[[Martin Lennartsson]] yrkar
+>[Martin Lennartsson](../../personer/Martin%20Lennartsson.md) yrkar
 >
->Att utöver valberedningens förslag också välja [[Tobias Bladini]] och
+>Att utöver valberedningens förslag också välja [Tobias Bladini](../../personer/Tobias%20Bladini.md) och
 [[Margareta Palmgren]] till förbundsstyrelsen.
 
 >[!beslut]+
@@ -567,16 +567,16 @@ välja fyra ledamöter till valberedningen.
 >Att välja fyra ledamöter till valberedningen.
 
 Följande personer är nominerade till valberedningen:
-[[Marcus Andersson]], [UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md)
+[Marcus Andersson](../../personer/Marcus%20Andersson.md), [UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md)
 [[Gunilla Beckholmen]], [UFCX](../../distrikt/UFCX%20(Unga%20Forskare%20Uppsala%20Gävleborg).md)
-[[Robert Jacobsson]] [UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md)
+[Robert Jacobsson](../../personer/Robert%20Jacobsson.md) [UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md)
 [[Karl Schmidt]],[UFV](../../distrikt/UFV%20(Unga%20Forskare%20Väst).md)
 [[Per Wallén]]
 
 >[!beslut]+
 >RS beslutar
 >
->Att välja [[Marcus Andersson]], [[Gunilla Beckholmen]], [[Karl Schmidt]] och [[Per Wallén]] till valberedningen.
+>Att välja [Marcus Andersson](../../personer/Marcus%20Andersson.md), [[Gunilla Beckholmen]], [[Karl Schmidt]] och [[Per Wallén]] till valberedningen.
 
 ## § 29 Övriga frågor
 
@@ -610,7 +610,7 @@ Riksstämman erhålls ett ombud."
 
 ## § 30 Stämmans avslutande
 
-Förbundsordförande [[Karolina Åseby]] förklarar 2002 års riksstämma avslutad.
+Förbundsordförande [Karolina Åseby](../../personer/Karolina%20Åseby.md) förklarar 2002 års riksstämma avslutad.
 
 ## BILAGOR TILL PROTOKOLLET
 
@@ -649,9 +649,9 @@ Ref : [Stadgar - RS 2002](Stadgar%20-%20RS%202002.md)
 - [[Gabriel Cleverland]], [[Ars Scientiae Naturae]]
 - [[Erik Druid]], [[Unga Forskare Stockholm]]
 - [[Elin Engström]], [[Bore]]
-- [[Robert Jacobsson]] [[Pirog]]
+- [Robert Jacobsson](../../personer/Robert%20Jacobsson.md) [[Pirog]]
 - [[Kalle Leissner]], [[Fuffens]]
-- [[Martin Lennartsson]], [[Unga Forskare Östra Götaland]]
+- [Martin Lennartsson](../../personer/Martin%20Lennartsson.md), [[Unga Forskare Östra Götaland]]
 - [[Hampus Lybeck]], [[Antika Helgalna Akademiker]]
 - [[Linnea Mattiasson]], [[Celsium]]
 - [[Johan Persson]], [[Utarmade Rollspelare frän Atomkraftens Narnia]]
@@ -673,7 +673,7 @@ Stiftelsen har till främsta ändamål att belöna och uppmuntra utställare vid
 Främjande av ändamålet
 Under året har följande stipendier utdelats på Utställningen Unga Forskare 2001:
 
-[[Azra Habibovic]], Fetter och människan
+[Azra Habibovic](../../personer/Azra%20Habibovic.md), Fetter och människan
 [[Elias Elia]], Bakterier som proteinfabriker
 [[Jesper Gunnarsson]], Toning av fotografier
 [[Anna Malou Petersson]], Mysteriet med Schrödingers katt - en jämförelse av kvantmekanikens tolkningar

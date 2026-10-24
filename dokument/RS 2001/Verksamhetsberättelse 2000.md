@@ -24,7 +24,7 @@ Förbundet har under året utökat sitt samarbete med systerorganisationerna i [
 
 Ref: [Lovis](../../organisationer/Lovis.md)
 
-Ansvarig: [Linda Svensson](../../personer/Linda%20Svensson.md)
+Ansvarig: [Linda Svenson](../../personer/Linda%20Svenson.md)
 
 Förbundet Unga Forskare samarbetade under året med [[../../organisationer/Fältbiologerna]], [Studiefrämjandet](../../organisationer/SFR%20(Studiefrämjandet).md) och [SIDA](../../organisationer/SIDA.md) i projektet Lovis. [Lovis](../../organisationer/Lovis.md) är ett tyskt segelfartyg som hyste 30 ungdomar frän sju olika länder som gränsar till Östersjön. Båten besökte under sommaren en stad i vart och ett av deltagarnas hemländer. Två personer från Unga Forskare var med som deltagare under resan.
 
@@ -54,7 +54,7 @@ Tidningen skickades även till ytterligare drygt 1000 lärare och företagsrepre
 
 ## Näringslivsgruppen
 
-Ansvarig: [[../../personer/Hugo Christiansson]]
+Ansvarig: [Hugo Christiansson](../../personer/Hugo%20Christiansson.md)
 
 Under 2000 startades en ny verksamhetsgrupp, näringslivsgruppen. Dess uppgift är att sköta det samarbete och hälla kontakten med de företag som under 1999 började fungera som företagspartner för Förbundet Unga Forskare. Gruppen utredde under året möjligheterna till praktiska samarrangemang mellan företagen och förbundet, genom att ordna ett möte mellan företagen och förbundets verksamhetsgrupper samt genom besök på ett flertal av de företag som inte hade möjlighet att närvara vid träffen. Tillsammans med företagen diskuterades former för hur samarbetet mellan företagen och förbundet ska kunna främja ungas intresse för naturvetenskap och teknik.
 
@@ -99,7 +99,7 @@ Scientium kom under året att tryckas pả "svanmärkt" papper.
 
 Ref: [Skolturnén](../../verksamheter/Skolturnén.md)
 
-Ansvarig: [[../../personer/Nan Kjellberg]]
+Ansvarig: [Nan Kjellberg](../../personer/Nan%20Kjellberg.md)
 
 Skolturnéns uppgift är att väcka och bibehålla intresset för naturvetenskap hos ungdomar och informera om vilka möjligheter som finns att utveckla sitt intresse inom Förbundet Unga Forskare. Under hösten 2000 var tre informatörer anställda som besökte gymnasie- och högstadieskolor i [[Småland]] och [Östergötland](../../platser/landskap/Östergötland.md). Besöken bestod av en show med information om Förbundet Unga Forskare och naturvetenskapliga experiment som eleverna gavs möjlighet att pröva pả. Över 2500 personer sảg turnéns framträdanden och cirka 200 elever som ville veta mer om Förbundet Unga Forskare fick ytterligare information hemskickad. [UFÖS](../../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md) deltog aktivt och arbetade med uppföljningen. Den större turné som planerades tillsammans med [Tom Tits Experiment](../../organisationer/Tom%20Tits%20Experiment.md) kunde inte genomföras pả grund av problem med finansiering.
 
@@ -107,7 +107,7 @@ Skolturnéns uppgift är att väcka och bibehålla intresset för naturvetenskap
 
 Ref: [SAN (SpecialarbetsNätverket)](../../verksamheter/SAN%20(SpecialarbetsNätverket).md)
 
-Ansvarig: [[../../personer/Torbjörn Blixt]]
+Ansvarig: [Torbjörn Blixt](../../personer/Torbjörn%20Blixt.md)
 
 Förbundet Unga Forskare har sedan 1993 drivit ett projekt för att hjälpa gymnasieungdomar att skriva vetenskapliga specialarbeten inom miljö och biologi. Specialarbetsnätverket gav kunskap om kritiskt granskande och om hur man arbetar med projekt. Dessutom förmedlades kontakter med forskare och experter och tips på lämplig litteratur. Elevstödet har bedrevs i seminarieform och för att inspirera deltagarna arrangerades föreläsningar om miljö. Enligt planen utvärderades projektet under 2000 och avslutades i juni. Under den del av året som Specialarbetsnätverket var aktiv var en biolog och en pedagog anställda i projektet och arbetsplatsen var förbundskansliet i Stockholm.
 
@@ -115,7 +115,7 @@ Förbundet Unga Forskare har sedan 1993 drivit ett projekt för att hjälpa gymn
 
 Ref: [SIYSS (Stockholm International Youth Science Seminar)](../../verksamheter/SIYSS%20(Stockholm%20International%20Youth%20Science%20Seminar).md)
 
-Ansvarig: [[../../personer/Petra Nylund]]
+Ansvarig: [Petra Nylund](../../personer/Petra%20Nylund.md)
 
 I samarbete med [[../../organisationer/Nobelstiftelsen]] anordnade Förbundet Unga Forskare för 25:e året i rad
 [SIYSS](../../verksamheter/SIYSS%20(Stockholm%20International%20Youth%20Science%20Seminar).md) för 25 unga forskare från hela världen som bjöds in för att delta i det veckolänga seminariet i samband med Nobelfestligheterna. Deltagarna har vunnit uttagningstävlingar i sina hemländer och fick under veckan möjlighet att utbyta erfarenheter med varandra och med andra forskare. I år kunde vi för första gängen bjuda in en deltagare från [[Kenya]]
@@ -131,7 +131,7 @@ Presentationerna var som vanligt öppna för alla medlemmar i Förbundet Unga Fo
 
 Ref: [[../../verksamheter/Utbildningsgruppen]]
 
-Ansvarig: [[Lisa Hagqvist]]
+Ansvarig: [Lisa Hagqvist](../../personer/Lisa%20Hagqvist.md)
 
 Utbildningsgruppen genomförde under är 2000 en [[Utbildningshelg]] för förbundsstyrelsen, som fokuserades pa gruppdynamik och styrelsearbete. Dessutom fick förbundsaktiva löpande utbildning i ekonomi och kanslirutiner. En utbildningshelg för aktiva pä förbunds- och distriktsnivå, [[Frukthelgen]], planerades för genomförande under januari 2001.
 
@@ -139,7 +139,7 @@ Utbildningsgruppen genomförde under är 2000 en [[Utbildningshelg]] för förbu
 
 Ref: [UUF](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md)
 
-Ansvariga: [[../../personer/Anneli Jönsson]] [[../../personer/Anne Lundin]]
+Ansvariga: [Anneli Jönsson](../../personer/Anneli%20Jönsson.md) [Anne Lundin](../../personer/Anne%20Lundin.md)
 
 UUF erbjuder ungdomar som gjort projekt inom naturvetenskap och teknik möjligheten att visa upp sitt arbete för allmänheten och för en jury bestående av personer frän högskolor och näringsliv. Alla projekt fảr någon form av stipendium. De bästa projekten belönas med stipendier till internationella vetenskapstävlingar och forskningsläger. Genom att delta i en utställning fär elever möjlighet att tränas att genomföra projekt pả ett vetenskapligt sätt och inser vikten av och möjligheterna med ett kritiskt och kreativt tänkande. Mötet med en utställningsjury gör att eleverna inspireras till fortsatt utveckling av sina projekt och kommer i kontakt med vad högre utbildningar kan erbjuda.
 
@@ -200,8 +200,8 @@ Förbundsstyrelsen bestod 2000 av tretton ungdomar, jämngamla med eller något 
 ### Ledamöter
 
 * [[Karl Berglind]]. Ledamot sedan 2000.
-* [[../../personer/Torbjörn Blixt]]. Ledamot sedan 1996.
-* [[Lisa Hagqvist]]. Ledamot sedan 1998.
+* [Torbjörn Blixt](../../personer/Torbjörn%20Blixt.md). Ledamot sedan 1996.
+* [Lisa Hagqvist](../../personer/Lisa%20Hagqvist.md). Ledamot sedan 1998.
 * [[Sara Karlsson]] (sekreterare). Ledamot sedan 1999.
 * [[Joakim Karlsson]]. Ledamot sedan 1997.
 * [Martin Olsson](../../personer/Martin%20Olsson.md). Ledamot sedan 2000.
@@ -209,7 +209,7 @@ Förbundsstyrelsen bestod 2000 av tretton ungdomar, jämngamla med eller något 
 * [Anders Sahlman](../../personer/Anders%20Sahlman.md). Ledamot sedan 2000.
 * [José-Gabriel Sato Folatre](../../personer/José-Gabriel%20Sato%20Folatre.md), Ledamot sedan 1997.
 * [[Patrick Schooner]], Ledamot sedan 2000.
-* [Linda Svensson](../../personer/Linda%20Svensson.md) (vice ordförande). Ledamot sedan 1998.
+* [Linda Svenson](../../personer/Linda%20Svenson.md) (vice ordförande). Ledamot sedan 1998.
 * [Björn Sällström](../../personer/Björn%20Sällström.md) Ledamot sedan 1998.
 
 ## Verksamhetsgrupper
@@ -222,7 +222,7 @@ Under 2000 har följande verksamhetsgrupper varit aktiva:
 
 * [Scientium](../../verksamheter/Scientium.md) [[Karin Stenback]]
 * [Specialarbetsnärverket](../../verksamheter/SAN%20(SpecialarbetsNätverket).md) [Torbjörn Blixt](../../personer/Torbjörn%20Blixt.md)
-* [Utbildningsgruppen](../../verksamheter/Utbildningsgruppen.md) [[Lisa Hagqvist]]
+* [Utbildningsgruppen](../../verksamheter/Utbildningsgruppen.md) [Lisa Hagqvist](../../personer/Lisa%20Hagqvist.md)
 * [Skolturnén](../../verksamheter/Skolturnén.md) [Nan Kjellberg](../../personer/Nan%20Kjellberg.md)
 * [Utställningen Unga Forskare](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md) [Anneli Jönsson](../../personer/Anneli%20Jönsson.md)
 * [Riksstämman](../../verksamheter/RS%20(Riksstämman).md) [Anne Lundin](../../personer/Anne%20Lundin.md)

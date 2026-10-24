@@ -10,7 +10,7 @@ Förslag till beslut: uppdra åt gruppen att genomföra planerad verksamhet inom
 
 ## Information
 
-Kontaktperson: [Linda Svensson](../../personer/Linda%20Svensson.md)
+Kontaktperson: [Linda Svenson](../../personer/Linda%20Svenson.md)
 Under året kommer en ny informationsbroschyr att tryckas upp. Broschyren kommer i första
 hand att vända sig till personer som vill ha lite utförligare information om förbundet.
 Förbundet ska finnas representerade med en monter på [Vetenskapsfestivalen](../../organisationer/Vetenskapsfestivalen.md) i Göteborg under
@@ -46,7 +46,7 @@ Förslag till beslut: uppdra åt gruppen att genomföra planerad verksamhet inom
 
 Ref: [NORNA](../../verksamheter/NORNA%20(Nordiska%20naturvetenskapliga%20ungdomsveckan).md)
 
-Kontaktperson: [Linda Svensson](../../personer/Linda%20Svensson.md), [Martin Olsson](../../personer/Martin%20Olsson.md)
+Kontaktperson: [Linda Svenson](../../personer/Linda%20Svenson.md), [Martin Olsson](../../personer/Martin%20Olsson.md)
 
 Nordiska naturvetenskapliga ungdomsveckan skall vara en mötesplats för ungdomar där
 intresset för och kunskapen om naturvetenskap och teknik främjas. Årets NORNA kommer att
@@ -159,7 +159,7 @@ Förslag till beslut: uppdra åt gruppen att genomföra planerad verksamhet inom
 
 ## Skolturnén
 
-Kontaktperson: [[Daniel Nilebäck]]
+Kontaktperson: [Daniel Nilebäck](../../personer/Daniel%20Nilebäck.md)
 
 [Skolturnén](../../verksamheter/Skolturnén.md)s uppgift är att väcka och bibehålla intresset för naturvetenskap hos ungdomar och
 informera om vilka möjligheter som finns att utveckla sitt intresse inom Förbundet Unga
@@ -179,7 +179,7 @@ Förslag till beslut: uppdra åt gruppen att genomföra planerad verksamhet inom
 
 ## Stipendier
 
-Kontaktperson: [[Lina Sundberg]] och [[Silvia Petersson]]
+Kontaktperson: [Lina Sundberg](../../personer/Lina%20Sundberg.md) och [[Silvia Petersson]]
 
 Gruppens målsättning är att rättvist fördela stipendier vid [Utställningen Unga Forskare](../../verksamheter/UUF%20(Utställningen%20Unga%20Forskare).md). Detta
 sker genom att stipendieanslag söks, varefter en jury sammanställs som fördelar dessa under
@@ -207,7 +207,7 @@ Förslag till beslut: uppdra åt gruppen att genomföra planerad verksamhet inom
 
 ## Utbildning
 
-Kontaktperson: [[Lisa Hagqvist]]
+Kontaktperson: [Lisa Hagqvist](../../personer/Lisa%20Hagqvist.md)
 
 Utbildningsgruppens uppgift är att erbjuda adekvat utbildning för aktiva på förbunds- och
 distriktsnivå. Under 2001 skall aktiva i verksamhetsgrupper utbildas i ekonomi samt
@@ -247,7 +247,7 @@ observatoriekullen i Stockholm.
 
 ### Föreningar
 
-Kontaktperson: [Linda Svensson](../../personer/Linda%20Svensson.md)
+Kontaktperson: [Linda Svenson](../../personer/Linda%20Svenson.md)
 
 Förbundsstyrelsen vill på ett enkelt sätt nå ut med information till alla medlemmar direkt. |
 Detta skall uppnås genom att samla in alla medlemmars adressuppgifter och föra in i ett
@@ -256,7 +256,7 @@ föreningar anslutna till Förbundet Unga Forskare.
 
 ### Distrikt
 
-Kontaktperson: [[Lisa Hagqvist]]
+Kontaktperson: [Lisa Hagqvist](../../personer/Lisa%20Hagqvist.md)
 
 Utbildningsgruppen skall hålla ett FUF-råd i september. Det ska samla två representanter från
 varje distrikt och verksamhetsgrupp samt förbundsstyrelsen för ett gemensamt utbyte av

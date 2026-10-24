@@ -6,19 +6,19 @@ På riksstämman 2007 valdes följande personer till förbundsstyrelsen:
 
 ### Ordförande
 
-* [[Tobias Bladini]], förbundsordförande.
+* [Tobias Bladini](../../personer/Tobias%20Bladini.md), förbundsordförande.
 
 ### Ledamöter
 
 * [[Anna-Maria Wiberg]], vice förbundsordförande.
-* [[Guncha Welsapar]], andre vice förbundsordförande.
-* [[Johan Andréasson]], förbundskassör.
-* [[Anders Lundberg]], ledamot.
-* [[Antonia Papadopoulou]], ledamot.
-* [[Alexander Sehlström]], ledamot.
-* [[Daniel Langkilde]], ledamot.
-* [[Hanna Palmqvist]], ledamot.
-* [[Rebecka Lindén]], ledamot.
+* [Guncha Welsapar](../../personer/Guncha%20Welsapar.md), andre vice förbundsordförande.
+* [Johan Andréasson](../../personer/Johan%20Andréasson.md), förbundskassör.
+* [Anders Lundberg](../../personer/Anders%20Lundberg.md), ledamot.
+* [Antonia Papadopoulou](../../personer/Antonia%20Papadopoulou.md), ledamot.
+* [Alexander Sehlström](../../personer/Alexander%20Sehlström.md), ledamot.
+* [Daniel Langkilde](../../personer/Daniel%20Langkilde.md), ledamot.
+* [Hanna Palmqvist](../../personer/Hanna%20Palmqvist.md), ledamot.
+* [Rebecka Lindén](../../personer/Rebecka%20Lindén.md), ledamot.
 
 ## Utskott
 

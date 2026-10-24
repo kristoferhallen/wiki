@@ -32,17 +32,17 @@ redaktionsutskott:
 
 ## §1 Stämmans öppnande
 
-Förbundsordförande [[Karolina Åseby]] hälsar alla välkomna och förklarar
+Förbundsordförande [Karolina Åseby](../../personer/Karolina%20Åseby.md) hälsar alla välkomna och förklarar
 Förbundet Unga Forskares Riksstämma 2003 öppnad.
 
 ## §2 Val av mötesordförande och mötessekreterare
 
-Till mötesordförande väljs [[Lage Rahm]].
+Till mötesordförande väljs [Lage Rahm](../../personer/Lage%20Rahm.md).
 Till mötessekreterare väljs [[Eva Håkansson]].
 
 ## §3 Val av två justerare, tillika rösträknare
 
-Till justerare, tillika rösträknare, väljs [[Elin Ruist-Larsson]] och [[Lorena Grubisic]].
+Till justerare, tillika rösträknare, väljs [[Elin Ruist-Larsson]] och [Lorena Grubisic](../../personer/Lorena%20Grubisic.md).
 
 ## §4 Fråga om stämman är stadgeenligt kallad
 
@@ -57,7 +57,7 @@ Röstlängden justeras enligt bilaga 11.
 ### §6a Fastställande av dagordningen
 
 >[!yrkande]
->[[Martin Olsson]] yrkar
+>[Martin Olsson](../../personer/Martin%20Olsson.md) yrkar
 >
 >att slå samman punkt 11 och 13 samt 15 och 17.
 
@@ -68,10 +68,10 @@ Röstlängden justeras enligt bilaga 11.
 
 ### §6b Fastställande av arbetsformer
 
-[[Lisa Hagqvist]] informerar om paverkanstorg och svarar pa frigor.
+[Lisa Hagqvist](../../personer/Lisa%20Hagqvist.md) informerar om paverkanstorg och svarar pa frigor.
 
 >[!yrkande]
->[[Martin Lennartsson]] yrkar
+>[Martin Lennartsson](../../personer/Martin%20Lennartsson.md) yrkar
 >
 >att avslå ursprungsförslaget, att använda paverkanstorg, och anvanda plenumförhandlingar istället.
 
@@ -90,7 +90,7 @@ Förbundsstyrelsen förelägger stämman följande förslag till inflytandepunkt
 * Valberedningens förslag och Föreningskontaktsgrupp.
 
 >[!yrkande]
->[[Martin Lennartsson]] yrkar
+>[Martin Lennartsson](../../personer/Martin%20Lennartsson.md) yrkar
 >
 >att tiden för Övriga frågor förlängs fram till 14.00.
 
@@ -106,22 +106,22 @@ Förbundsstyrelsen förelägger stämman följande förslag till inflytandepunkt
 Förbundsstyrelsen förelägger stämman följande förslag till inflytandepunktsansvariga:
 
 Punkt: Verksamhet och Ekonomi
-Inflytandepunktsansvarig: [[Lage Rahm]]
-Representanter frän förbundsstyrelsen: [[Anna Alfredsson]], [[Martin Olsson]]
+Inflytandepunktsansvarig: [Lage Rahm](../../personer/Lage%20Rahm.md)
+Representanter frän förbundsstyrelsen: [Anna Alfredsson](../../personer/Anna%20Alfredsson.md), [Martin Olsson](../../personer/Martin%20Olsson.md)
 
 Punkt: Stiftelse
-Inflytandepunktsansvarig: [[Björn Sällström]]
-Representanter frän förbundsstyrelsen: [[Karolina Åseby]]
+Inflytandepunktsansvarig: [Björn Sällström](../../personer/Björn%20Sällström.md)
+Representanter frän förbundsstyrelsen: [Karolina Åseby](../../personer/Karolina%20Åseby.md)
 
 Punkt: Stadgerevision och fram till klockan 14.00 Övriga frågor
-Inflytandepunktsansvarig: [[Lisa Hagqvist]]
-Representanter från förbundsstyrelsen: [[Hanna Modin]], [[Linus Gustafsson]]
+Inflytandepunktsansvarig: [Lisa Hagqvist](../../personer/Lisa%20Hagqvist.md)
+Representanter från förbundsstyrelsen: [Hanna Modin](../../personer/Hanna%20Modin.md), [Linus Gustafsson](../../personer/Linus%20Gustafsson.md)
 
 Punkt: Valberedningens förslag och Föreningskontaktsgrupp
-Inflytandepunktsansvarig: [[Kristofer Hallén]]
-Representanter frän förbundsstyrelsen: [[Linda Svensson]]
+Inflytandepunktsansvarig: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
+Representanter frän förbundsstyrelsen: [Linda Svenson](../../personer/Linda%20Svenson.md)
 
-[[Anders Sahlman]] föreslår att inflytandepunktsansvariga presenterar sig själva kort.
+[Anders Sahlman](../../personer/Anders%20Sahlman.md) föreslår att inflytandepunktsansvariga presenterar sig själva kort.
 Inflytandepunktsansvariga presenterar sig kort.
 
 >[!beslut]
@@ -136,7 +136,7 @@ Förbundsstyrelsen föreslår stämman:
 >[!yrkande]
 >Förbundsstyrelsen föreslår
 >
->att till redaktionsutskottet utse [[Lage Rahm]], [[Eva Håkansson]], [[Björn Sällström]], [[Martin Olsson]].
+>att till redaktionsutskottet utse [Lage Rahm](../../personer/Lage%20Rahm.md), [[Eva Håkansson]], [Björn Sällström](../../personer/Björn%20Sällström.md), [Martin Olsson](../../personer/Martin%20Olsson.md).
 
 >[!beslut]
 >RS beslutar
@@ -161,30 +161,30 @@ Mötet ajourneras från 10.07 till 10.24 för fikapaus.
 
 ## §8 Valberedningen har ordet
 
-[[Marcus Andersson]] och [[Kristofer Hallén]] föredrar valberedningens förslag.
+[Marcus Andersson](../../personer/Marcus%20Andersson.md) och [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) föredrar valberedningens förslag.
 
 Ordförande:
-[[Karolina Åseby]]
+[Karolina Åseby](../../personer/Karolina%20Åseby.md)
 
 Förslag till Omval:
-[[Daniel Nilebäck]]
-[[Hanna Modin]]
-[[Anna Alfredsson]]
-[[Tobias Bladini]]
-[[Linus Gustafsson]]
-[[Lina Sundberg]]
-[[Per Bengtsson]]
+[Daniel Nilebäck](../../personer/Daniel%20Nilebäck.md)
+[Hanna Modin](../../personer/Hanna%20Modin.md)
+[Anna Alfredsson](../../personer/Anna%20Alfredsson.md)
+[Tobias Bladini](../../personer/Tobias%20Bladini.md)
+[Linus Gustafsson](../../personer/Linus%20Gustafsson.md)
+[Lina Sundberg](../../personer/Lina%20Sundberg.md)
+[Per Bengtsson](../../personer/Per%20Bengtsson.md)
 
 Nyval:
-[[Martin Lennartsson]]
-[[Johan Andréasson]]
+[Martin Lennartsson](../../personer/Martin%20Lennartsson.md)
+[Johan Andréasson](../../personer/Johan%20Andréasson.md)
 [[Azra Habiboviç]]
 
 Mötet ajourneras från 10.29 till 10.41 för information från UNF i Danmark.
 
 ## §9 Presentation av verksamhetsplan
 
-[[Anders Sahlman]] föredrar FS förslag pa verksamhetsplan.
+[Anders Sahlman](../../personer/Anders%20Sahlman.md) föredrar FS förslag pa verksamhetsplan.
 Mötet ajourneras från klockan 10.55 till 09.00 nästföljande dag.
 
 ## §10 Styrelsens verksamhetsberättelse för FUF 2002
@@ -407,7 +407,7 @@ Inflytandepunktens huvudyrkande angående stadgepropositionen:
 >att ändra texten om EU Contest till:
 >
 >EU Contest for Young Scientists i Sverige 2006
->Kontaktperson: [[Anders Sahlman]]
+>Kontaktperson: [Anders Sahlman](../../personer/Anders%20Sahlman.md)
 >Förbundet Unga Forskare har av EU-kommissionen blivit erbjudna värdskapet för EU Contest for Young Scientists (EU Contest) 2006 i samarbete med Kungliga Vetenskapsakademien och Vetenskapsrådet.
 >Den nationella delen av budgeten är täckt med hjälp av bidrag frän Astra Zeneca, KK-stiftelsen, Stiftelsen för strategisk forskning samt Vetenskapsrådet. Målen under 2003 blir att underhälla kontakterna med sponsorer och samarbetspartner samt att fastställa formen för organisationen bakom arrangemanget tillsammans med Vetenskapsrådet och Kungliga Vetenskapsakademien. Årets EU Contest i Budapest ska besökas för att observera arrangemanget och för att Skapa kontakter med övriga National Organizers samt personer pa EU-kommissionen.
 >Förslag till beslut: Att uppdra ät gruppen att genomföra planerad verksamhet inom budgetram.
@@ -482,7 +482,7 @@ Mötet ajourneras frän 09:55 till 10:25 för fikapaus.
 >[!yrkande]
 >Inflytandepunktens huvudyrkande angående förbundsordförande för 2003
 >
->att till förbundsordförande välja [[Karolina Åseby]].
+>att till förbundsordförande välja [Karolina Åseby](../../personer/Karolina%20Åseby.md).
 
 >[!beslut]
 >RS beslutar
@@ -511,7 +511,7 @@ Mötet ajourneras frän 09:55 till 10:25 för fikapaus.
 >[!yrkande]
 >Inflytandepunktens huvudyrkande angående styrelseledamöter
 >
->att anta valberedningens förslag med tillägget [[Lorena Grubisic]] (nyval) i stället för [[Lina Sundberg]] som har tagit tillbaka sin kandidatur.
+>att anta valberedningens förslag med tillägget [Lorena Grubisic](../../personer/Lorena%20Grubisic.md) (nyval) i stället för [Lina Sundberg](../../personer/Lina%20Sundberg.md) som har tagit tillbaka sin kandidatur.
 
 >[!beslut]
 >RS beslutar
@@ -523,9 +523,9 @@ Mötet ajourneras frän 09:55 till 10:25 för fikapaus.
 >[!yrkande]
 >Inflytandepunktens huvudyrkande angående revisorer och revisorssuppleanter
 >
->§25a: att till revisorer välja [[Sune Johnson]], Öhrlings PricewaterhouseCoopers och [[Sune Hilstad]], Ingenjörssamfundet.
+>§25a: att till revisorer välja [Sune Johnson](../../personer/Sune%20Johnson.md), Öhrlings PricewaterhouseCoopers och [Sune Hilstad](../../personer/Sune%20Hilstad.md), Ingenjörssamfundet.
 >
->§25b: att till revisorsuppleanter välja [[Anders Winqvist]], Öhrlings PricewaterhouseCoopers och [[Kristofer Hallén]].
+>§25b: att till revisorsuppleanter välja [[Anders Winqvist]], Öhrlings PricewaterhouseCoopers och [Kristofer Hallén](../../personer/Kristofer%20Hallén.md).
 
 >[!beslut]
 >RS beslutar
@@ -553,7 +553,7 @@ Mötet ajourneras frän 09:55 till 10:25 för fikapaus.
 >[!yrkande]
 >Inflytandepunktens huvudyrkande angående valberedning
 >
->att till valberedning välja [[Robert Jacobsson]] (UFÖS), [[Linda Svenson]], [[Linnea Kjeldgård]] (UFCX) och [[Jessica Wallén]] (UFÖS).
+>att till valberedning välja [Robert Jacobsson](../../personer/Robert%20Jacobsson.md) (UFÖS), [Linda Svenson](../../personer/Linda%20Svenson.md), [[Linnea Kjeldgård]] (UFCX) och [[Jessica Wallén]] (UFÖS).
 
 >[!beslut]
 >RS beslutar
@@ -588,7 +588,7 @@ Mötet ajourneras frän 09:55 till 10:25 för fikapaus.
 
 ## §28 Stämmans avslutande
 
-Förbundsordförande [[Karolina Åseby]] förklarar 2003 ars riksstämma avslutad.
+Förbundsordförande [Karolina Åseby](../../personer/Karolina%20Åseby.md) förklarar 2003 ars riksstämma avslutad.
 
 ## BILAGOR TILL PROTOKOLLET
 

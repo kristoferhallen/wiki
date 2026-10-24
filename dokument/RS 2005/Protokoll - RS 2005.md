@@ -33,19 +33,19 @@ kategorier:
 
 ## §1 Stämmans öppnande
 
-> Förbundsordförande [[Tobias Bladini]] hälsar alla välkomna och förklarar
+> Förbundsordförande [Tobias Bladini](../../personer/Tobias%20Bladini.md) hälsar alla välkomna och förklarar
 > Förbundet Unga Forskares Riksstämma 2005 öppnad.
 
 ## §2 Val av mötesordförande och mötessekreterare
 
-> Till mötesordförande väljs [[Lage Rahm]].
+> Till mötesordförande väljs [Lage Rahm](../../personer/Lage%20Rahm.md).
 >
 > Till mötessekreterare väljs [[Lana Bublik]].
 
 ## §3 Val av två justerare, tillika rösträknare
 
 > Till justerare, tillika rösträknare, väljs [[Elin Einarson]] och
-> [[Robert Jacobsson]].
+> [Robert Jacobsson](../../personer/Robert%20Jacobsson.md).
 
 ## §4 Fråga om stämman är stadgeenligt kallad
 
@@ -59,11 +59,11 @@ kategorier:
 
 ### §6a Fastställande av arbetsformer
 
-> [[Hanna Modin]] informerar om påverkanstorgets förfarande angående
+> [Hanna Modin](../../personer/Hanna%20Modin.md) informerar om påverkanstorgets förfarande angående
 > förslag och kommentarer. Alla får lov att lägga yttranden på
 > påverkansstorget. På söndagens plenum får inga nya förslag läggas.
 >
-> [[Lage Rahm]] informerar om plenumförfarande och mötesordning.
+> [Lage Rahm](../../personer/Lage%20Rahm.md) informerar om plenumförfarande och mötesordning.
 
 >[!beslut]
 > RS beslutar
@@ -73,7 +73,7 @@ kategorier:
 
 ### §6b Fastställande av dagordningen
 
-> [[Hanna Modin]] presenterar förbundsstyrelsens förslag på dagordning.
+> [Hanna Modin](../../personer/Hanna%20Modin.md) presenterar förbundsstyrelsens förslag på dagordning.
 
 >[!beslut]
 > RS beslutar
@@ -91,7 +91,7 @@ kategorier:
 - Valberedningens förslag och Övriga frågor
 
 >[!yrkande]
-> [[Robert Jacobsson]] yrkar:
+> [Robert Jacobsson](../../personer/Robert%20Jacobsson.md) yrkar:
 >
 > att flytta Övriga frågor till punkten Motioner
 
@@ -113,7 +113,7 @@ budgetförslag 2005
 
 *Punkt:* Kontaktgruppen
 
-*Inflytandepunktsansvarig:* [[Lina Sundberg]]
+*Inflytandepunktsansvarig:* [Lina Sundberg](../../personer/Lina%20Sundberg.md)
 
 *Punkt:* Motioner och Övriga frågor
 
@@ -121,9 +121,9 @@ budgetförslag 2005
 
 *Punkt:* Valberedningens förslag
 
-*Inflytandeansvarig:* [[Erik Frick]]
+*Inflytandeansvarig:* [Erik Frick](../../personer/Erik%20Frick.md)
 
-> [[Hanna Modin]] föreslår att inflytandepunktsansvariga presenterar sig
+> [Hanna Modin](../../personer/Hanna%20Modin.md) föreslår att inflytandepunktsansvariga presenterar sig
 > själva kort.
 
 Inflytandepunktsansvariga presenterar sig kort.
@@ -139,7 +139,7 @@ Inflytandepunktsansvariga presenterar sig kort.
 > Förbundsstyrelsen föreslår
 >
 > att till redaktionsutskott utse [Martin Olsson](../../personer/Martin%20Olsson.md),
-> [[Erik Frick]], [[Anna Alfredsson]], [[Robert Henriksson]] och
+> [Erik Frick](../../personer/Erik%20Frick.md), [Anna Alfredsson](../../personer/Anna%20Alfredsson.md), [[Robert Henriksson]] och
 > [Pererik Andreasson](../../personer/Pererik%20Andreasson.md).
 
 >[!beslut]
@@ -149,7 +149,7 @@ Inflytandepunktsansvariga presenterar sig kort.
 
 ## §7 Antagande av mötesregler för riksstämmans pleniförhandlingar
 
-> [[Lage Rahm]] föredrag förslag på mötesregler för stämman:
+> [Lage Rahm](../../personer/Lage%20Rahm.md) föredrag förslag på mötesregler för stämman:
 >
 > Streck i debatten (kräver enkel majoritet)
 >
@@ -165,26 +165,26 @@ Inflytandepunktsansvariga presenterar sig kort.
 
 ## §8 Valberedningen har ordet
 
-> [[Andreas Rocén]] föredrar [valberedningens](../../verksamheter/Valberedningen.md)
+> [Andreas Rocén](../../personer/Andreas%20Rocén.md) föredrar [valberedningens](../../verksamheter/Valberedningen.md)
 > förslag för stämman.
 
 *Förbundsordförande:*
 
-[[Tobias Bladini]] (omval)
+[Tobias Bladini](../../personer/Tobias%20Bladini.md) (omval)
 
 *Förslag till omval till förbundsstyrelsen:*
 
-[[Johan Andréasson]]
+[Johan Andréasson](../../personer/Johan%20Andréasson.md)
 
-[[Marcus Andersson]]
+[Marcus Andersson](../../personer/Marcus%20Andersson.md)
 
-[[Lorena Grubisic]]
+[Lorena Grubisic](../../personer/Lorena%20Grubisic.md)
 
 [Martin Lennartsson](../../personer/Martin%20Lennartsson.md)
 
 [[Anna-Maria Wiberg]]
 
-[[Maja Söderkvist]]
+[Maja Söderkvist](../../personer/Maja%20Söderkvist.md)
 
 *Förslag till nyval till förbundsstyrelsen:*
 
@@ -196,29 +196,29 @@ Inflytandepunktsansvariga presenterar sig kort.
 
 *Förslag på revisorer:*
 
-> Auktoriserad*:* [[Sune Johnsson]], [[Öhrlings PricewaterhouseCoopers]]
+> Auktoriserad*:* [Sune Johnsson](../../personer/Sune%20Johnson.md), [[Öhrlings PricewaterhouseCoopers]]
 
-Ideell: [[Sune Hilstad]], [[Ingenjörssamfundet]].
+Ideell: [Sune Hilstad](../../personer/Sune%20Hilstad.md), [[Ingenjörssamfundet]].
 
 *Förslag på revisorssuppleanter:*
 
-Auktoriserad: [[Magnus Backlund]], [[Öhrlings PricewaterhouseCoopers]]
+Auktoriserad: [Magnus Backlund](../../personer/Magnus%20Backlund.md), [[Öhrlings PricewaterhouseCoopers]]
 
 Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 
-> [[Andreas Rocén]] föreslår de närvarande föreslagna presenterar sig
+> [Andreas Rocén](../../personer/Andreas%20Rocén.md) föreslår de närvarande föreslagna presenterar sig
 > själva kort.
 >
 > De föreslagna presenterar sig kort.
 
 -
 
-> [[Andreas Rocén]] informerar om att ny valberedning ska väljas samt
+> [Andreas Rocén](../../personer/Andreas%20Rocén.md) informerar om att ny valberedning ska väljas samt
 > att det ännu finns möjlighet att lägga fler förslag/byta ut föreslagna
 
 ## §9 Presentation av verksamhetsplan
 
-> [[Hanna Modin]] föredrar förbundsstyrelsens förslag på verksamhetsplan
+> [Hanna Modin](../../personer/Hanna%20Modin.md) föredrar förbundsstyrelsens förslag på verksamhetsplan
 > för stämman.
 
 *Mötet ajourneras från 10.05 till 09.00 nästföljande dag.*
@@ -362,7 +362,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 >
 > **13 I a** att Riksstämman bifaller motionen i sin helhet
 >
-> **13 I b** att Riksstämman utser [[Robert Jacobsson]] till ansvarig
+> **13 I b** att Riksstämman utser [Robert Jacobsson](../../personer/Robert%20Jacobsson.md) till ansvarig
 > för introduktionskursgruppen
 
 >[!yrkande]
@@ -420,7 +420,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 
 ## §15 Fastställande av medlemsavgift för 2005
 
-> [[Hanna Modin]], [[Karolina Åseby]] och [[Anna Alfredsson]] föredrar
+> [Hanna Modin](../../personer/Hanna%20Modin.md), [Karolina Åseby](../../personer/Karolina%20Åseby.md) och [Anna Alfredsson](../../personer/Anna%20Alfredsson.md) föredrar
 > för stämman den matematiska funktionen för bestämmandet av FUFs
 > medlemsavgift.
 
@@ -454,7 +454,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 >[!yrkande]
 > Inflytandepunktens huvudyrkande angående förbundsordförande för 2005:
 >
-> **17 a** att till förbundsordförande välja [[Tobias Bladini]]
+> **17 a** att till förbundsordförande välja [Tobias Bladini](../../personer/Tobias%20Bladini.md)
 
 >[!beslut]
 > RS beslutar
@@ -506,12 +506,12 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 > Inflytandepunktens huvudyrkande angående valberedning:
 >
 > **21 a** att välja [[Henric Fröberg]] till sammankallande ledamot och
-> [[Hanna Modin]], [[Samuel Tylstedt]], [[Torbjörn Diderholm Korell]],
+> [Hanna Modin](../../personer/Hanna%20Modin.md), [Samuel Tylstedt](../../personer/Samuel%20Tylstedt.md), [[Torbjörn Diderholm Korell]],
 > [[Viktor Johansson]] och [[Petter Blomberg]] till ledamöter i
 > valberedningen
 
 >[!yrkande]
-> **21 b** att välja [[Hanna Modin]] till sammankallande ledamot, i
+> **21 b** att välja [Hanna Modin](../../personer/Hanna%20Modin.md) till sammankallande ledamot, i
 > övrigt som 21 a
 
 >[!beslut]
@@ -521,7 +521,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 
 ## §22 Övriga frågor
 
-> [[Lage Rahm]] informerar om att beslut under Övriga Frågor måste
+> [Lage Rahm](../../personer/Lage%20Rahm.md) informerar om att beslut under Övriga Frågor måste
 > fattas med 2/3 majoritet.
 
 ### §22 I Föreningsrekrytering
@@ -549,7 +549,7 @@ Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 
 ## §23 Stämmans avslutande
 
-> Förbundsordförande [[Tobias Bladini]] förklarar 2005 års riksstämma
+> Förbundsordförande [Tobias Bladini](../../personer/Tobias%20Bladini.md) förklarar 2005 års riksstämma
 > avslutad.
 
 ## BILAGOR TILL PROTOKOLLET

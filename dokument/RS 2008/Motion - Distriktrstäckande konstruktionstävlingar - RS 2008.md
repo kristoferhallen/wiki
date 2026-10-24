@@ -76,7 +76,7 @@ Utgifterna utgörs av: reklam/annonser, partytält/lokaler, snacks/mat samt bros
 Följande tre poster borde till lika stora delar täcka kostnaderna: deltagaravgifter, statliga bidrag, sponsring från företag.
 
 >[!yrkande]
-> [[Karl Larsson]] yrkar
+> [Karl Larsson](../../personer/Karl%20Larsson.md) yrkar
 >
 > att förbundsstyrelsen ges i uppdrag att under 2008 undersöka intresset för den här typen av verksamhet samt möjligheterna att under 2009 genomföra projektet i stora delar av landet,
 >

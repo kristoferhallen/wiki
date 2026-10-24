@@ -38,18 +38,18 @@ Närvarande: Se bilaga 1
 
 ## §1 Stämmans öppnande
 
-> Förbundsordförande [[Tobias Bladini]] förklarar Förbundet Unga Forskares
+> Förbundsordförande [Tobias Bladini](../../personer/Tobias%20Bladini.md) förklarar Förbundet Unga Forskares
 > Riksstämma 2006 öppnad.
 
 ## §2 Val av mötesordförande och mötessekreterare
 
-> Till mötesordförande väljs [[Lage Rahm]].
+> Till mötesordförande väljs [Lage Rahm](../../personer/Lage%20Rahm.md).
 >
-> Till mötessekreterare väljs [[Hanna Modin]].
+> Till mötessekreterare väljs [Hanna Modin](../../personer/Hanna%20Modin.md).
 
 ## §3 Val av två justerare, tillika rösträknare
 
-> Till justerare, tillika rösträknare, väljs [[Sarah Warsi]] och [[Eric Druid]].
+> Till justerare, tillika rösträknare, väljs [Sarah Warsi](../../personer/Sarah%20Warsi.md) och [[Eric Druid]].
 
 ## §4 Fråga om stämman är stadgeenligt kallad
 
@@ -111,7 +111,7 @@ Närvarande: Se bilaga 1
 > *Punkt:* Verksamhets- och ekonomisk berättelse 2005, verksamhetsplan
 > och budgetförslag 2006
 
-*Inflytandepunktsansvarig:* [[Hanna Modin]]
+*Inflytandepunktsansvarig:* [Hanna Modin](../../personer/Hanna%20Modin.md)
 
 > *Punkt:* Propositionen
 
@@ -123,7 +123,7 @@ Närvarande: Se bilaga 1
 
 > *Punkt:* Valberedningens förslag och Övriga frågor
 
-*Inflytandepunktsansvarig:* [[Azra Habibovic]]
+*Inflytandepunktsansvarig:* [Azra Habibovic](../../personer/Azra%20Habibovic.md)
 
 >[!beslut]
 > RS beslutar
@@ -135,7 +135,7 @@ Närvarande: Se bilaga 1
 >[!yrkande]
 > Förbundsstyrelsen föreslår stämman:
 >
-> att till redaktionsutskott utse [[Johan Andréasson]].
+> att till redaktionsutskott utse [Johan Andréasson](../../personer/Johan%20Andréasson.md).
 
 [[Tobias Lönnell]], [[Eva-Brita Åkerlund]] och [[Erik Bengtsson]] kandiderar till
 redaktionsutskottet.
@@ -185,38 +185,38 @@ redaktionsutskottet.
 
 *Förslag till förbundsordförande:*
 
-[[Tobias Bladini]] (omval)
+[Tobias Bladini](../../personer/Tobias%20Bladini.md) (omval)
 
 *Förslag till omval till förbundsstyrelsen:*
 
-[[Johan Andréasson]]
+[Johan Andréasson](../../personer/Johan%20Andréasson.md)
 
 [Martin Lennartsson](../../personer/Martin%20Lennartsson.md)
 
 [[Anna-Maria Wiberg]]
 
-[[Maja Söderkvist]]
+[Maja Söderkvist](../../personer/Maja%20Söderkvist.md)
 
 [[Robert Henriksson]]
 [[Gabriella Lindén]]
 
 *Förslag till nyval till förbundsstyrelsen:*
 
-[[Anders Lundberg]]
+[Anders Lundberg](../../personer/Anders%20Lundberg.md)
 
-[[Hanna Palmquist]]
+[Hanna Palmquist](../../personer/Hanna%20Palmqvist.md)
 
-[[Rebecka Lindén]]
+[Rebecka Lindén](../../personer/Rebecka%20Lindén.md)
 
 *Förslag på revisorer:*
 
-Auktoriserad: [[Magnus Backlund]], [[Öhrlings PricewaterhouseCoopers]]
+Auktoriserad: [Magnus Backlund](../../personer/Magnus%20Backlund.md), [[Öhrlings PricewaterhouseCoopers]]
 
-Ideell: [[Sune Hilstad]], [[Ingenjörssamfundet]]
+Ideell: [Sune Hilstad](../../personer/Sune%20Hilstad.md), [[Ingenjörssamfundet]]
 
 *Förslag på revisorssuppleanter:*
 
-Auktoriserad: [[Sune Johnsson]], Öhrlings PricewaterhouseCoopers
+Auktoriserad: [Sune Johnsson](../../personer/Sune%20Johnson.md), Öhrlings PricewaterhouseCoopers
 
 Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 
@@ -426,7 +426,7 @@ RS hälsar nyanslutna föreningar välkomna.
 > distrikts-organet.
 
 >[!yrkande]
-> Yrkanden under strecket som väckts av [[Robert Jacobsson]]
+> Yrkanden under strecket som väckts av [Robert Jacobsson](../../personer/Robert%20Jacobsson.md)
 >
 > att riksstämman skall ålägga FS att utreda distriktens roll i
 > förbundet
@@ -489,7 +489,7 @@ Inflytandepunktens huvudyrkanden angående verksamhetsplan 2006:
 Inflytandepunktens huvudyrkande angående förbundsordförande för 2006:
 
 >[!yrkande]
-> att till förbundsordförande välja [[Tobias Bladini]]
+> att till förbundsordförande välja [Tobias Bladini](../../personer/Tobias%20Bladini.md)
 
 >[!beslut]
 > RS beslutar
@@ -538,8 +538,8 @@ Inflytandepunktens huvudyrkande angående styrelseledamöter
 Inflytandepunktens huvudyrkande angående valberedning:
 
 >[!yrkande]
-> att välja [[Hanna Modin]] (sammankallande), [[Henric Fröberg]], [[Tobias Lönnell]]
-> och [[Johannes Zeltner Wolff]].
+> att välja [Hanna Modin](../../personer/Hanna%20Modin.md) (sammankallande), [[Henric Fröberg]], [[Tobias Lönnell]]
+> och [Johannes Zeltner Wolff](../../personer/Johannes%20Zeltner%20Wolff.md).
 
 >[!yrkande]
 > Väckt yrkande:
