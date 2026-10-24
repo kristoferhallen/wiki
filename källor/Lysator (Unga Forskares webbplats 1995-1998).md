@@ -18,14 +18,23 @@ Sidorna slutade uppdateras 1997–1998, när förbundet flyttade till <http://ww
 
 Varje sida bär en egen signatur med månad och ansvarig person; använd den som datering, inte hämtningsdatumet.
 
-## Innehåll av värde
+## Delkällor
 
-- Förbundets grundandehistoria med alla tre årtalen, se [Historia](../om/Historia.md)
-- Förbundsstyrelsen 1997 med personsidor
-- De åtta distrikten med fullständiga namn
-- Verksamhetsgrupperna 1997
-- [Skolturnén](../verksamheter/Skolturnén.md) och kalendariet
-- [UFÖS](../distrikt/UFÖS%20(Unga%20Forskare%20Östergötland%20Småland).md) med kurshistorik och styrelsepresentationer
+Innehållet är uppdelat i en källnot per sida eller sidgrupp, så att varje uppgift går att kontrollera mot sin egen sida:
+
+- [Verksamhetsberättelse 1993](Verksamhetsberättelse%201993.md) — förbundets verksamhetsberättelse i sex delar
+- [Lysator - Förbundsstyrelsen 1997](Lysator%20-%20Förbundsstyrelsen%201997.md)
+- [Lysator - Verksamhetsgrupperna 1997](Lysator%20-%20Verksamhetsgrupperna%201997.md) — med riksstämmogruppen
+- [Lysator - IT-gruppen 1997](Lysator%20-%20IT-gruppen%201997.md)
+- [Lysator - Skolturnén 1996](Lysator%20-%20Skolturnén%201996.md) — med turnéschemat
+- [Lysator - Distrikten 1997](Lysator%20-%20Distrikten%201997.md) — med distriktens webbplatser
+- [Lysator - UFCX](Lysator%20-%20UFCX.md) — omkring 1995
+- [Lysator - UFÖS 1997-1998](Lysator%20-%20UFÖS%201997-1998.md) — föreningar och styrelse
+- [UFÖS verksamhetsberättelser 1994–1997](UFÖS%20verksamhetsberättelse%201994.md) — en källnot per år
+- [Lysator - Kalendarium 1998](Lysator%20-%20Kalendarium%201998.md)
+- [Lysator - Arvika UF](Lysator%20-%20Arvika%20UF.md)
+
+Förbundets grundandehistoria med alla tre årtalen, från `r/info.html`, finns på [Historia](../om/Historia.md).
 
 ## Att observera
 
