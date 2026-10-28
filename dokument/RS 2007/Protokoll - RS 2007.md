@@ -19,7 +19,7 @@ inflytandepunktsansvariga:
   - "[[Anna Alfredsson]]"
   - "[[Hanna Modin]]"
 redaktionsutskott:
-  - "[[Hanna Palmquist]]"
+  - "[[Hanna Palmqvist]]"
   - "[[Anna Alfredsson]]"
   - "[[Ulrika Forsberg]]"
   - "[[Sara Modigh]]"
@@ -36,18 +36,18 @@ Närvarande: Se bilaga 1
 
 ## §1 Stämmans öppnande
 
-> Förbundsordförande [[Tobias Bladini]] förklarar Förbundet Unga Forskares
+> Förbundsordförande [Tobias Bladini](../../personer/Tobias%20Bladini.md) förklarar Förbundet Unga Forskares
 > Riksstämma 2007 öppnad.
 
 ## §2 Val av mötesordförande och mötessekreterare
 
-> Till mötesordförande väljs [[Lage Rahm]].
+> Till mötesordförande väljs [Lage Rahm](../../personer/Lage%20Rahm.md).
 >
 > Till mötessekreterare väljs [[Joni Lindgren]].
 
 ## §3 Val av två justerare, tillika rösträknare
 
-> Till justerare, tillika rösträknare, väljs [[Andreas Svensson]] och
+> Till justerare, tillika rösträknare, väljs [Andreas Svensson](../../personer/Andreas%20Svensson.md) och
 > [[Tobias Lönnell]].
 
 ## §4 Fråga om stämman är stadgeenligt kallad
@@ -62,7 +62,7 @@ Närvarande: Se bilaga 1
 
 ### §6a Fastställande av arbetsformer
 
-> [[Tobias Bladini]] informerar om påverkanstorgets förfarande angående
+> [Tobias Bladini](../../personer/Tobias%20Bladini.md) informerar om påverkanstorgets förfarande angående
 > förslag och kommentarer. En noggrannare beskrivning finns bifogad
 > stämmohandlingarna. Alla får lov att lägga yrkanden på påverkanstorget
 > fram till kl. 18.30. Efter det kan man inte längre lägga yrkanden.
@@ -102,11 +102,11 @@ Närvarande: Se bilaga 1
 > *Punkt:* Verksamhetsberättelse och ekonomisk berättelse 2006,
 > verksamhetsplan och budgetförslag 2006
 
-*Inflytandepunktsansvarig:* [[Anna Alfredsson]]
+*Inflytandepunktsansvarig:* [Anna Alfredsson](../../personer/Anna%20Alfredsson.md)
 
 > *Punkt:* Valberedningens förslag och Övriga frågor
 
-*Inflytandepunktsansvarig:* [[Hanna Modin]]
+*Inflytandepunktsansvarig:* [Hanna Modin](../../personer/Hanna%20Modin.md)
 
 >[!beslut]
 > RS beslutar
@@ -118,7 +118,7 @@ Närvarande: Se bilaga 1
 >[!yrkande]
 > Förbundsstämman föreslås besluta
 >
-> att till redaktionsutskott utse [[Hanna Palmquist]], [[Anna Alfredsson]],
+> att till redaktionsutskott utse [Hanna Palmquist](../../personer/Hanna%20Palmqvist.md), [Anna Alfredsson](../../personer/Anna%20Alfredsson.md),
 > [[Ulrika Forsberg]], [[Sara Modigh]].
 
 -
@@ -143,45 +143,45 @@ Närvarande: Se bilaga 1
 
 *Förslag till förbundsordförande:*
 
-[[Tobias Bladini]] (omval)
+[Tobias Bladini](../../personer/Tobias%20Bladini.md) (omval)
 
 *Förslag till omval till förbundsstyrelsen:*
 
-[[Johan Andréasson]]
+[Johan Andréasson](../../personer/Johan%20Andréasson.md)
 
-[[Rebecka Lindén]]
+[Rebecka Lindén](../../personer/Rebecka%20Lindén.md)
 
-[[Anders Lundberg]]
+[Anders Lundberg](../../personer/Anders%20Lundberg.md)
 
-[[Hanna Palmquist]]
+[Hanna Palmquist](../../personer/Hanna%20Palmqvist.md)
 
 [[Anna-Maria Wiberg]]
 
 *Förslag till nyval till förbundsstyrelsen:*
 
-[[Daniel Lankilde]]
+[Daniel Lankilde](../../personer/Daniel%20Langkilde.md)
 
-[[Antonia Papadopoulou]]
+[Antonia Papadopoulou](../../personer/Antonia%20Papadopoulou.md)
 
-[[Alexander Sehlström]]
+[Alexander Sehlström](../../personer/Alexander%20Sehlström.md)
 
-[[Guncha Welsapar]]
+[Guncha Welsapar](../../personer/Guncha%20Welsapar.md)
 
 *Förslag på revisorer:*
 
-Auktoriserad: [[Magnus Backlund]], [[Öhrlings PricewaterhouseCoopers]]
+Auktoriserad: [Magnus Backlund](../../personer/Magnus%20Backlund.md), [[Öhrlings PricewaterhouseCoopers]]
 
-Ideell: [[Sune Hilstad]], [[Ingenjörssamfundet]]
+Ideell: [Sune Hilstad](../../personer/Sune%20Hilstad.md), [[Ingenjörssamfundet]]
 
 *Förslag på revisorssuppleanter:*
 
-Auktoriserad: [[Sune Johnsson]], Öhrlings PricewaterhouseCoopers
+Auktoriserad: [Sune Johnsson](../../personer/Sune%20Johnson.md), Öhrlings PricewaterhouseCoopers
 
 Ideell: [Kristofer Hallén](../../personer/Kristofer%20Hallén.md)
 
 ## §9 Presentation av verksamhetsplan
 
-> [[Johan Andréasson]] föredrar förbundsstyrelsens förslag på
+> [Johan Andréasson](../../personer/Johan%20Andréasson.md) föredrar förbundsstyrelsens förslag på
 > verksamhetsplan för stämman (bilaga 6) samt informerar om att
 > förslaget finns att läsa på påverkanstorget.
 
@@ -372,7 +372,7 @@ Inflytandepunktens huvudyrkanden angående budget för 2007:
 Inflytandepunktens huvudyrkande angående förbundsordförande för 2007:
 
 >[!yrkande]
-> att till förbundsordförande välja [[Tobias Bladini]]
+> att till förbundsordförande välja [Tobias Bladini](../../personer/Tobias%20Bladini.md)
 
 >[!beslut]
 > RS beslutar
@@ -423,16 +423,16 @@ revisorssuppleanter:
 Inflytandepunktens huvudyrkande angående valberedning:
 
 >[!yrkande]
-> att välja [[Johannes Zeltner Wolff]] (sammankallande, omval),
-> [[Tobias Lönnell]] (omval), [[Ranjita Dutta Roy]] samt [[Erika Wiberg]]
+> att välja [Johannes Zeltner Wolff](../../personer/Johannes%20Zeltner%20Wolff.md) (sammankallande, omval),
+> [[Tobias Lönnell]] (omval), [Ranjita Dutta Roy](../../personer/Ranjita%20Dutta%20Roy.md) samt [Erika Wiberg](../../personer/Erika%20Wiberg.md)
 > (väljs på två år)
 
 >[!beslut]
 > RS beslutar
 >
-> att till valberedning välja [[Johannes Zeltner Wolff]] (sammankallande)
-> och [[Tobias Lönnell]] på ett år och [[Ranjita Dutta Roy|Dutta Roy]]
-> samt [[Erika Wiberg]] på två år.
+> att till valberedning välja [Johannes Zeltner Wolff](../../personer/Johannes%20Zeltner%20Wolff.md) (sammankallande)
+> och [[Tobias Lönnell]] på ett år och [Dutta Roy](../../personer/Ranjita%20Dutta%20Roy.md)
+> samt [Erika Wiberg](../../personer/Erika%20Wiberg.md) på två år.
 
 ## §22 Övriga frågor
 
@@ -489,7 +489,7 @@ Inflytandepunktens huvudyrkande angående valberedning:
 
 ## §23 Stämmans avslutande
 
-> Förbundsordförande [[Tobias Bladini]] förklarar 2007 års riksstämma
+> Förbundsordförande [Tobias Bladini](../../personer/Tobias%20Bladini.md) förklarar 2007 års riksstämma
 > avslutad.
 
 ## BILAGOR TILL PROTOKOLLET

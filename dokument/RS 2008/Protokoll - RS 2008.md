@@ -36,14 +36,14 @@ Närvarande: Se bilaga 1
 
 ## §1 Riksstämmans öppnande
 
-> Förbundsordförande [[Tobias Bladini]] förklarar mötet öppnat.
+> Förbundsordförande [Tobias Bladini](../../personer/Tobias%20Bladini.md) förklarar mötet öppnat.
 
 ## §2 Val av mötesordförande och mötessekreterare
 
 >[!beslut]
 > RS beslutar
 >
-> att välja [[Lage Rahm]] till mötesordförande,
+> att välja [Lage Rahm](../../personer/Lage%20Rahm.md) till mötesordförande,
 >
 > att välja [[Irma Ortega]] till mötessekreterare.
 
@@ -52,7 +52,7 @@ Närvarande: Se bilaga 1
 >[!beslut]
 > RS beslutar
 >
-> att välja [[Linnéa Nilebäck]] och [[Erika Wiberg]] till protokolljusterare tillika rösträknare.
+> att välja [Linnéa Nilebäck](../../personer/Linnéa%20Nilebäck.md) och [Erika Wiberg](../../personer/Erika%20Wiberg.md) till protokolljusterare tillika rösträknare.
 
 ## §4 Beslut om mötets stadgeenliga utlysande
 
@@ -128,10 +128,10 @@ Närvarande: Se bilaga 1
 >
 > att välja följande personer till inflytelsepunktsansvariga (IFPA):
 >
-> - [[Maja Söderkvist]]: 2007 års verksamhetsberättelse samt ekonomiska berättelse, valberedningens förslag, motioner samt övriga frågor
+> - [Maja Söderkvist](../../personer/Maja%20Söderkvist.md): 2007 års verksamhetsberättelse samt ekonomiska berättelse, valberedningens förslag, motioner samt övriga frågor
 > - [Martin Lennartsson](../../personer/Martin%20Lennartsson.md): Verksamhetsplanspropositionen 2008 samt budgetpropositionen 2008
 >
-> att välja [[Daniel Langkilde]], [[Anders Lundberg]], [Martin Lennartsson](../../personer/Martin%20Lennartsson.md) och [[Irma Ortega]] till redaktionsutskott.
+> att välja [Daniel Langkilde](../../personer/Daniel%20Langkilde.md), [Anders Lundberg](../../personer/Anders%20Lundberg.md), [Martin Lennartsson](../../personer/Martin%20Lennartsson.md) och [[Irma Ortega]] till redaktionsutskott.
 
 ## §9 Presentation av valberedningens förslag
 
@@ -139,11 +139,11 @@ Närvarande: Se bilaga 1
 
 ## §10 Presentation av verksamhetsplan- samt budgetproposition
 
-> [[Alexander Sehlström]] presenterar verksamhetsplanpropositionen för 2008, se Bilaga 5 - Verksamhetsplanproposition 2008.
+> [Alexander Sehlström](../../personer/Alexander%20Sehlström.md) presenterar verksamhetsplanpropositionen för 2008, se Bilaga 5 - Verksamhetsplanproposition 2008.
 
 -
 
-> [[Johan Andréasson]] presenterar budgetpropositionen för 2008, se Bilaga 6 - Budgetproposition 2008.
+> [Johan Andréasson](../../personer/Johan%20Andréasson.md) presenterar budgetpropositionen för 2008, se Bilaga 6 - Budgetproposition 2008.
 
 ## §11 Det gångna året
 
@@ -343,7 +343,7 @@ Närvarande: Se bilaga 1
 >[!beslut]
 > RS beslutar
 >
-> att välja [[Anders Lundberg]] till ordförande.
+> att välja [Anders Lundberg](../../personer/Anders%20Lundberg.md) till ordförande.
 
 ### §18b Fastställande av styrelsens storlek
 
@@ -359,23 +359,23 @@ Närvarande: Se bilaga 1
 >
 > att välja följande personer till styrelseledamöter:
 >
-> - [[Alexander Sehlström]]
-> - [[Antonia Papadopoulou]]
-> - [[Daniel Langkilde]]
-> - [[Guncha Welsapar]]
-> - [[Joel Salholm]]
-> - [[Rebecka Lindén]]
-> - [[Sara Magnusson]]
-> - [[Tobias Jonsson]]
+> - [Alexander Sehlström](../../personer/Alexander%20Sehlström.md)
+> - [Antonia Papadopoulou](../../personer/Antonia%20Papadopoulou.md)
+> - [Daniel Langkilde](../../personer/Daniel%20Langkilde.md)
+> - [Guncha Welsapar](../../personer/Guncha%20Welsapar.md)
+> - [Joel Salholm](../../personer/Joel%20Salholm.md)
+> - [Rebecka Lindén](../../personer/Rebecka%20Lindén.md)
+> - [Sara Magnusson](../../personer/Sara%20Magnusson.md)
+> - [Tobias Jonsson](../../personer/Tobias%20Jonsson.md)
 
 ### §18d Val av två revisorer samt två revisorssuppleanter
 
 >[!beslut]
 > RS beslutar
 >
-> att välja [[Sune Hilstad]] samt [[Magnus Backlund]] till revisorer,
+> att välja [Sune Hilstad](../../personer/Sune%20Hilstad.md) samt [Magnus Backlund](../../personer/Magnus%20Backlund.md) till revisorer,
 >
-> att välja [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) samt [[Sune Johnsson]] till revisorsuppleanter.
+> att välja [Kristofer Hallén](../../personer/Kristofer%20Hallén.md) samt [Sune Johnsson](../../personer/Sune%20Johnson.md) till revisorsuppleanter.
 
 ### §18e Val av valberedning
 
@@ -384,18 +384,18 @@ Närvarande: Se bilaga 1
 >
 > att välja följande till valberedare för 2009 års RS:
 >
-> - [[Harald Carlstrand]]
-> - [[Ranjita Dutta Roy]]
-> - [[Erika Wiberg]]
-> - [[Rikard Ahgren]]
+> - [Harald Carlstrand](../../personer/Harald%20Carlstrand.md)
+> - [Ranjita Dutta Roy](../../personer/Ranjita%20Dutta%20Roy.md)
+> - [Erika Wiberg](../../personer/Erika%20Wiberg.md)
+> - [Rikard Ahgren](../../personer/Rikard%20Ahgren.md)
 >
-> att välja [[Erika Wiberg]] till sammankallande för [valberedningen](../../verksamheter/Valberedningen.md).
+> att välja [Erika Wiberg](../../personer/Erika%20Wiberg.md) till sammankallande för [valberedningen](../../verksamheter/Valberedningen.md).
 
 ## §19 Motioner
 
 ### §19a Distriktstäckande konstruktionstävlingar
 
-> [[Karl Larsson]] har skickat in en motion angående utredning, genomförande och uppföljning av en större konstruktionstävling hösten 2008. Se Bilaga 15 - Motion: Distriktstäckande konstruktionstävlingar.
+> [Karl Larsson](../../personer/Karl%20Larsson.md) har skickat in en motion angående utredning, genomförande och uppföljning av en större konstruktionstävling hösten 2008. Se Bilaga 15 - Motion: Distriktstäckande konstruktionstävlingar.
 >
 > [Förbundsstyrelsens](../../verksamheter/FS%20(Förbundsstyrelsen).md) svar: Förbundsstyrelsen delar motionärens åsikter och anser att projektet har stor potential att bli lyckat. Dock anser förbundsstyrelsen att en totalt avsatt summa på 40 000 kr är för stort då FUF:s budget inte har utrymme för detta. Förbundsstyrelsen anser att 10 000 kr är ett mer lämpligt belopp. Vidare menar förbundsstyrelsen att pilotverksamhet endast ska utföras i ett distrikt med hänvisning till organisatoriska aspekter.
 
@@ -435,7 +435,7 @@ Närvarande: Se bilaga 1
 
 ## §21 Stämmans avslutande
 
-> De avgående ledamöterna överlämnar till den nya styrelsen en ny ordförandeklubba prydd med texten "Ta det lugnt, det löser sig" varefter nytillträdde ordförande [[Anders Lundberg]] tackar för förtroendet och ordförandeklubban och förklarar stämman avslutad.
+> De avgående ledamöterna överlämnar till den nya styrelsen en ny ordförandeklubba prydd med texten "Ta det lugnt, det löser sig" varefter nytillträdde ordförande [Anders Lundberg](../../personer/Anders%20Lundberg.md) tackar för förtroendet och ordförandeklubban och förklarar stämman avslutad.
 
 ## BILAGOR TILL PROTOKOLLET
 

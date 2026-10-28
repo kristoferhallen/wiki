@@ -37,7 +37,7 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 
 ## §1 Riksstämmans öppnande
 
-> Förbundsordförande [[Anders Lundberg]] förklarade mötet öppnat.
+> Förbundsordförande [Anders Lundberg](../../personer/Anders%20Lundberg.md) förklarade mötet öppnat.
 
 ## §2 Mötesformalia
 
@@ -50,7 +50,7 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 >
 > att välja [Martin Lennartsson](../../personer/Martin%20Lennartsson.md) till mötesordförande,
 >
-> att välja [[Andreas Svensson]] till mötessekreterare.
+> att välja [Andreas Svensson](../../personer/Andreas%20Svensson.md) till mötessekreterare.
 
 ### §2b Val av två protokolljusterare tillika rösträknare
 
@@ -138,9 +138,9 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 >
 > att välja följande inflytandepunkter: året som gick, verksamhetsplan, budget, övriga propositioner, motioner, valberedningens förslag,
 >
-> att välja [[Maja Söderkvist]], [[Anna-Maria Wiberg]], [[Linnéa Nilebäck]] och [[Helene Eriksson]] till inflytandepunktsansvariga,
+> att välja [Maja Söderkvist](../../personer/Maja%20Söderkvist.md), [[Anna-Maria Wiberg]], [Linnéa Nilebäck](../../personer/Linnéa%20Nilebäck.md) och [Helene Eriksson](../../personer/Helene%20Eriksson.md) till inflytandepunktsansvariga,
 >
-> att utse [Martin Lennartsson](../../personer/Martin%20Lennartsson.md), [[Andreas Svensson]] och [[Anders Lundberg]] till redaktionsutskott.
+> att utse [Martin Lennartsson](../../personer/Martin%20Lennartsson.md), [Andreas Svensson](../../personer/Andreas%20Svensson.md) och [Anders Lundberg](../../personer/Anders%20Lundberg.md) till redaktionsutskott.
 
 ### §3c Val av valutskott
 
@@ -149,7 +149,7 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 >[!beslut]
 > RS beslutar
 >
-> att utse [[Joakim Öfverholm]], [[David Borg]] och [[Martin Norlin]] till valutskott med uppdrag att bereda förslag på ny valberedning,
+> att utse [Joakim Öfverholm](../../personer/Joakim%20Öfverholm.md), [David Borg](../../personer/David%20Borg.md) och [Martin Norlin](../../personer/Martin%20Norlin.md) till valutskott med uppdrag att bereda förslag på ny valberedning,
 >
 > att valutskottet presenterar sitt förslag senast söndag 2009-04-05 kl 10.00.
 
@@ -164,7 +164,7 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 
 ### §4a Verksamhetsberättelse för FUF 2008
 
-> Verksamhetsberättelsen är en sammanfattning av den verksamhet som bedrivits under året. [[Daniel Langkilde]] från [FS](../../verksamheter/FS%20(Förbundsstyrelsen).md) föredrog verksamhetsberättelsen. I beslutsunderlaget återfanns följande kommentar angående ett sakfel: ”[Projektbankens](../../verksamheter/Projektbanken.md) verksamhet har expanderat som samarbetet med ett fler färre antal universitet har utvecklats. Detta har ökat möjligheterna för unga att genomföra projektarbeten som de finner intressanta.”
+> Verksamhetsberättelsen är en sammanfattning av den verksamhet som bedrivits under året. [Daniel Langkilde](../../personer/Daniel%20Langkilde.md) från [FS](../../verksamheter/FS%20(Förbundsstyrelsen).md) föredrog verksamhetsberättelsen. I beslutsunderlaget återfanns följande kommentar angående ett sakfel: ”[Projektbankens](../../verksamheter/Projektbanken.md) verksamhet har expanderat som samarbetet med ett fler färre antal universitet har utvecklats. Detta har ökat möjligheterna för unga att genomföra projektarbeten som de finner intressanta.”
 
 >[!beslut]
 > RS beslutar
@@ -173,7 +173,7 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 
 ### §4b Årsbokslut för FUF 2008
 
-> Årsbokslutet behandlar resultat- och balansrapport för Förbundet Unga Forskare år 2008. [[Alexander Sehlström]] från [FS](../../verksamheter/FS%20(Förbundsstyrelsen).md) föredrog årsbokslutet. Två sakfrågor ställdes, som besvarades av Alexander.
+> Årsbokslutet behandlar resultat- och balansrapport för Förbundet Unga Forskare år 2008. [Alexander Sehlström](../../personer/Alexander%20Sehlström.md) från [FS](../../verksamheter/FS%20(Förbundsstyrelsen).md) föredrog årsbokslutet. Två sakfrågor ställdes, som besvarades av Alexander.
 
 >[!beslut]
 > RS beslutar
@@ -184,7 +184,7 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 
 ### §4c Revisorernas berättelse för FUF 2008
 
-> [[Alexander Sehlström]] från [FS](../../verksamheter/FS%20(Förbundsstyrelsen).md) föredrog revisorernas berättelse.
+> [Alexander Sehlström](../../personer/Alexander%20Sehlström.md) från [FS](../../verksamheter/FS%20(Förbundsstyrelsen).md) föredrog revisorernas berättelse.
 
 >[!beslut]
 > RS beslutar
@@ -204,7 +204,7 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 >
 > §8.1 — En förening kan avregistreras ur förbundet av riksstämman om den inte redovisat verksamhet eller medlemmar under ett (1) års tid.
 >
-> Bilaga 7 föredrogs av [[Daniel Langkilde]].
+> Bilaga 7 föredrogs av [Daniel Langkilde](../../personer/Daniel%20Langkilde.md).
 
 >[!beslut]
 > RS beslutar
@@ -213,7 +213,7 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 
 ## §7 Fastställande av medlemsavgift för år 2009
 
-> [[Daniel Langkilde]] föredrog och motiverade förbundsstyrelsens förslag med följande resonemang:
+> [Daniel Langkilde](../../personer/Daniel%20Langkilde.md) föredrog och motiverade förbundsstyrelsens förslag med följande resonemang:
 >
 > Variabler
 >
@@ -239,7 +239,7 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 
 ### §8a Verksamhetsplan för år 2009
 
-> [[Rebecka Lindén]] från [FS](../../verksamheter/FS%20(Förbundsstyrelsen).md) föredrog förbundsstyrelsens förslag. [[Rikard Ahrgren]] föredrog sitt tilläggsyrkande B, där Rebecka förtydligade att även förbundsstyrelsen gillade detta yrkande. [[David Ebbevi]] föredrog tilläggsyrkande C och föreslog Riksstämman besluta att bifalla hans förslag. Förbundsstyrelsen samtyckte. [[Roos]] föredrog tilläggsyrkande D, och förbundsstyrelsen klargjorde att även de ställde sig bakom detta yrkande.
+> [Rebecka Lindén](../../personer/Rebecka%20Lindén.md) från [FS](../../verksamheter/FS%20(Förbundsstyrelsen).md) föredrog förbundsstyrelsens förslag. [Rikard Ahrgren](../../personer/Rikard%20Ahgren.md) föredrog sitt tilläggsyrkande B, där Rebecka förtydligade att även förbundsstyrelsen gillade detta yrkande. [[David Ebbevi]] föredrog tilläggsyrkande C och föreslog Riksstämman besluta att bifalla hans förslag. Förbundsstyrelsen samtyckte. [[Roos]] föredrog tilläggsyrkande D, och förbundsstyrelsen klargjorde att även de ställde sig bakom detta yrkande.
 
 >[!beslut]
 > RS beslutar
@@ -254,7 +254,7 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 
 ### §8b Budget för år 2009
 
-> [[Sara Magnusson]] föredrog förbundsstyrelsens förslag. [[Rikard Ahrgren]] föredrog tilläggsyrkande B, vilket förbundsstyrelsen ställde sig bakom.
+> [Sara Magnusson](../../personer/Sara%20Magnusson.md) föredrog förbundsstyrelsens förslag. [Rikard Ahrgren](../../personer/Rikard%20Ahgren.md) föredrog tilläggsyrkande B, vilket förbundsstyrelsen ställde sig bakom.
 
 >[!beslut]
 > RS beslutar
@@ -263,7 +263,7 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 
 ### §8c Stadgeändring: Uppdaterad definition av förening
 
-> [[Alexander Sehlström]] föredrog förbundsstyrelsens förslag. En diskussion om huruvida detta skulle kunna ge eventuella komplikationer med föreningsbidragen uppstod, och reddes ut.
+> [Alexander Sehlström](../../personer/Alexander%20Sehlström.md) föredrog förbundsstyrelsens förslag. En diskussion om huruvida detta skulle kunna ge eventuella komplikationer med föreningsbidragen uppstod, och reddes ut.
 
 >[!beslut]
 > RS beslutar
@@ -272,7 +272,7 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 
 ### §8d Stadgeändring: Bättre framförhållning inför Riksstämman
 
-> [[Guncha Welsapar]] föredrog förbundsstyrelsens förslag.
+> [Guncha Welsapar](../../personer/Guncha%20Welsapar.md) föredrog förbundsstyrelsens förslag.
 
 >[!beslut]
 > RS beslutar
@@ -285,7 +285,7 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 
 ### §8e Förändring av bidragssystemet
 
-> Yrkande C och D lyftes ovan strecket. [[Guncha Welsapar]] föredrog förbundsstyrelsens förslag, och [[Karl Larsson]] föredrog yrkande B och D. En debatt uppstod om huruvida ekonomiska styrmedel fungerar, lite åsikter samt några sakfrågor om kostnader.
+> Yrkande C och D lyftes ovan strecket. [Guncha Welsapar](../../personer/Guncha%20Welsapar.md) föredrog förbundsstyrelsens förslag, och [Karl Larsson](../../personer/Karl%20Larsson.md) föredrog yrkande B och D. En debatt uppstod om huruvida ekonomiska styrmedel fungerar, lite åsikter samt några sakfrågor om kostnader.
 
 >[!beslut]
 > RS beslutar
@@ -304,7 +304,7 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 
 ### §8f Unga Forskare behöver ett åsiktsprogram
 
-> [[Anders Lundberg]] från [FS](../../verksamheter/FS%20(Förbundsstyrelsen).md) föredrog propositionen, och [[Viktor Curovic]] föredrog tilläggsförslag B. En debatt uppstod om punkten. Förslagsställaren till yrkande B förtydligade även att intentionen är att åsiktsprogrammet ska revideras årligen på Riksstämman.
+> [Anders Lundberg](../../personer/Anders%20Lundberg.md) från [FS](../../verksamheter/FS%20(Förbundsstyrelsen).md) föredrog propositionen, och [[Viktor Curovic]] föredrog tilläggsförslag B. En debatt uppstod om punkten. Förslagsställaren till yrkande B förtydligade även att intentionen är att åsiktsprogrammet ska revideras årligen på Riksstämman.
 
 >[!beslut]
 > RS beslutar
@@ -317,7 +317,7 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 
 ### §8g Stadgeändring: Unga Forskares Utvecklingsfond
 
-> Vid Riksstämman år 2008 fick styrelsen i uppdrag att utreda hur en fond skulle kunna bildas. [[Alexander Sehlström]] från [FS](../../verksamheter/FS%20(Förbundsstyrelsen).md) föredrog propositionen och [[Roos]] föredrog ändringsyrkande B. En debatt om yrkande B uppstod. [[Hilda Andersson]] föredrog yrkande C. Ytterligare debatt uppstod om alla yrkanden.
+> Vid Riksstämman år 2008 fick styrelsen i uppdrag att utreda hur en fond skulle kunna bildas. [Alexander Sehlström](../../personer/Alexander%20Sehlström.md) från [FS](../../verksamheter/FS%20(Förbundsstyrelsen).md) föredrog propositionen och [[Roos]] föredrog ändringsyrkande B. En debatt om yrkande B uppstod. [[Hilda Andersson]] föredrog yrkande C. Ytterligare debatt uppstod om alla yrkanden.
 
 >[!beslut]
 > RS beslutar
@@ -330,7 +330,7 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 
 ### §8h Stadgeändring: Ändrat antal ledamöter i FS
 
-> [[Alexander Sehlström]] från [FS](../../verksamheter/FS%20(Förbundsstyrelsen).md) föredrog propositionen.
+> [Alexander Sehlström](../../personer/Alexander%20Sehlström.md) från [FS](../../verksamheter/FS%20(Förbundsstyrelsen).md) föredrog propositionen.
 
 >[!beslut]
 > RS beslutar
@@ -341,7 +341,7 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 
 ### §8i Utredning om RS-datum
 
-> [[Tobias Jonsson]] från [FS](../../verksamheter/FS%20(Förbundsstyrelsen).md) föredrog propositionen. En sakupplysning gjordes om att [[Sverok]] nyligen gjort denna förändring, vilket bör kunna utnyttjas i utredningsarbetet.
+> [Tobias Jonsson](../../personer/Tobias%20Jonsson.md) från [FS](../../verksamheter/FS%20(Förbundsstyrelsen).md) föredrog propositionen. En sakupplysning gjordes om att [[Sverok]] nyligen gjort denna förändring, vilket bör kunna utnyttjas i utredningsarbetet.
 
 >[!beslut]
 > RS beslutar
@@ -352,7 +352,7 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 
 ### §8j Valberedningens arbetsordning
 
-> [[Guncha Welsapar]] föredrog propositionen.
+> [Guncha Welsapar](../../personer/Guncha%20Welsapar.md) föredrog propositionen.
 
 >[!beslut]
 > RS beslutar
@@ -374,7 +374,7 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 
 ### §9b Rättning av bokföringslagens SFS-nummer i stadgarna
 
-> [[Mikael Sunde]] föredrog motionen, och [[Guncha Welsapar]] föredrog förbundsstyrelsens motionssvar.
+> [[Mikael Sunde]] föredrog motionen, och [Guncha Welsapar](../../personer/Guncha%20Welsapar.md) föredrog förbundsstyrelsens motionssvar.
 
 >[!beslut]
 > RS beslutar
@@ -383,7 +383,7 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 
 ### §9c Utbildningshelg för föreningar
 
-> [[Karl Larsson]] föredrog motionen, [[Linus Sanner]] ändringsyrkande A varpå [[Daniel Langkilde]] från [FS](../../verksamheter/FS%20(Förbundsstyrelsen).md) föredrog motionssvaret. En liten debatt om motionen, med sin detaljrika utformning, bör antas, uppstod.
+> [Karl Larsson](../../personer/Karl%20Larsson.md) föredrog motionen, [[Linus Sanner]] ändringsyrkande A varpå [Daniel Langkilde](../../personer/Daniel%20Langkilde.md) från [FS](../../verksamheter/FS%20(Förbundsstyrelsen).md) föredrog motionssvaret. En liten debatt om motionen, med sin detaljrika utformning, bör antas, uppstod.
 
 >[!beslut]
 > RS beslutar
@@ -399,7 +399,7 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 >[!beslut]
 > RS beslutar
 >
-> att välja [[Anders Lundberg]] till förbundsordförande.
+> att välja [Anders Lundberg](../../personer/Anders%20Lundberg.md) till förbundsordförande.
 
 ### §10b Fastställande av styrelsens storlek
 
@@ -415,18 +415,18 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 >[!beslut]
 > RS beslutar
 >
-> att välja [[Alexander Sehlström]], [[Guncha Welsapar]], [[Andreas Svensson]], [[Johannes Z Wolff]], [[Rebecka Lindén]], [[Sara Magnusson]], [[Daniel Langkilde]] och [[Philippe Klintefelt Collet]] till styrelseledamöter.
+> att välja [Alexander Sehlström](../../personer/Alexander%20Sehlström.md), [Guncha Welsapar](../../personer/Guncha%20Welsapar.md), [Andreas Svensson](../../personer/Andreas%20Svensson.md), [Johannes Z Wolff](../../personer/Johannes%20Zeltner%20Wolff.md), [Rebecka Lindén](../../personer/Rebecka%20Lindén.md), [Sara Magnusson](../../personer/Sara%20Magnusson.md), [Daniel Langkilde](../../personer/Daniel%20Langkilde.md) och [[Philippe Klintefelt Collet]] till styrelseledamöter.
 
 ### §10d Val av två revisorer samt två revisorssuppleanter
 
-> [[Rikard Ahrgren]] föredrog valberedningens förslag. På begäran noteras det till protokollet att diskussioner om att det vore lämpligt med en arbetsordning även för verksamhetsrevisorerna har förts.
+> [Rikard Ahrgren](../../personer/Rikard%20Ahgren.md) föredrog valberedningens förslag. På begäran noteras det till protokollet att diskussioner om att det vore lämpligt med en arbetsordning även för verksamhetsrevisorerna har förts.
 
 >[!beslut]
 > RS beslutar
 >
-> att välja [[Sune Johnson]] (ekonomisk revisor) och [[Johan Andréasson]] (verksamhetsrevisor) till revisorer,
+> att välja [Sune Johnson](../../personer/Sune%20Johnson.md) (ekonomisk revisor) och [Johan Andréasson](../../personer/Johan%20Andréasson.md) (verksamhetsrevisor) till revisorer,
 >
-> att välja [[Johan Rönnkvist]] (ekonomisk revisorsuppleant) och [[Samuel Tylstedt]] (verksamhetsrevisorsuppleant) till revisorsuppleanter.
+> att välja [[Johan Rönnkvist]] (ekonomisk revisorsuppleant) och [Samuel Tylstedt](../../personer/Samuel%20Tylstedt.md) (verksamhetsrevisorsuppleant) till revisorsuppleanter.
 
 ### §10e Val av valberedning
 
@@ -437,13 +437,13 @@ Angående yrkanden: I dokumentet hänvisas till olika yrkanden, dessa återfinns
 >
 > att fastställa valberedningens storlek till fyra personer,
 >
-> att välja [[Gustav Johansson]], [[Aleksander Lundqvist]], [[Sofie Bartholdson]] och [[David Andersson]] till valberedning.
+> att välja [[Gustav Johansson]], [Aleksander Lundqvist](../../personer/Aleksander%20Lundqvist.md), [[Sofie Bartholdson]] och [[David Andersson]] till valberedning.
 
 ## §11 Övriga frågor
 
 ## §12 Stämmans avslutande
 
-> [[Anders Lundberg]] avslutade Riksstämman 2009.
+> [Anders Lundberg](../../personer/Anders%20Lundberg.md) avslutade Riksstämman 2009.
 
 ## BILAGOR TILL PROTOKOLLET
 
